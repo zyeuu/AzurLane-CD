@@ -12,7 +12,7 @@ const templ = computed(() => {
 })
 
 const dispName = computed(() => {
-    return props.name || templ.value.name;
+    return props.name || templ.value?.name || '未选择';
 })
 
 
@@ -20,26 +20,26 @@ const dispName = computed(() => {
 
 <template>
     <div class="ship-card">
-        <div v-if="template > 0">
-            <img class="ship-card-image" :src="templ.img" :alt="templ.name" />
-            <br />
-        </div>
-        <div class="ship-card-image" v-else style="background: #333;"></div>
-        {{ dispName }}
+        <span class="ship-card-name">{{ dispName }}</span>
+        <span v-if="template > 0" class="ship-card-id">ID {{ template }}</span>
     </div>
 </template>
 
-<style>
+<style scoped>
 .ship-card {
-    width: 90px;
-    min-height: 110px;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-width: 0;
 }
 
-.ship-card .ship-card-image {
-    display: inline-block;
-    width: 80px;
-    height: 80px;
-    border-radius: 10px;
+.ship-card-name {
+    overflow-wrap: anywhere;
+}
+
+.ship-card-id {
+    color: #666;
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
 }
 </style>

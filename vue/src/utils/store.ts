@@ -174,9 +174,6 @@ const store: {
         }
         loadShipTemplates().then((data) => {
             store.state.shipTemplates = data;
-            Object.values(store.state.shipTemplates).forEach(tmpl => {
-                tmpl.img = tmpl.img.replace(/^(\/+)/, './')
-            })
             for (let fleet of store.state.fleets) {
                 if (!fleet.targets) {
                     fleet.targets = [];
@@ -185,9 +182,6 @@ const store: {
         });
         loadEquips().then((data) => {
             store.state.equips = data;
-            Object.values(store.state.equips).forEach(tmpl => {
-                tmpl.img = tmpl.img.replace(/^(\/+)/, './')
-            })
         })
     }
 }

@@ -20,32 +20,42 @@
                 <n-button @click="showModal = false">取消</n-button>
             </template>
             <n-form-item label-placement="left" :show-feedback="false">
-                <n-input ref="searchRef" v-model:value="pattern" placeholder="搜索舰娘名称/拼音" />
+                <n-input ref="searchRef" v-model:value="pattern" placeholder="搜索舰船 ID / 名称" clearable />
             </n-form-item>
             <br />
-            <n-grid x-gap="2" cols="2 400:3 600:4 800:5 1000:6 1200:12">
+            <n-grid x-gap="8" y-gap="8" cols="2 400:3 600:4 800:5 1000:6 1200:12">
                 <n-grid-item
                     v-for="option in options"
                     :key="option.id"
                     :bordered="false"
-                    class="ship-card"
-                    v-show="customFilter(option)"
-                    @click="addShip(option.key)"
+                    class="ship-option"
+                    role="button"
+                    tabindex="0"
+                    @click="addShip(option.id)"
+                    @keydown.enter="addShip(option.id)"
+                    @keydown.space.prevent="addShip(option.id)"
                 >
-                    <ship-card :template="option.key"></ship-card>
+                    <ship-card :template="option.id"></ship-card>
                 </n-grid-item>
             </n-grid>
-            <n-empty v-if="options.length == 0"></n-empty>
+            <n-empty v-if="options.length == 0" description="没有匹配的舰船"></n-empty>
         </n-card>
     </n-modal>
 </template>
 
-<style>
-table {
-    padding-left: 5%;
-}
+<style scoped>
 .n-input-number {
     min-width: 50px;
+}
+.ship-option {
+    padding: 8px;
+    border: 1px solid #e0e0e6;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.ship-option:hover,
+.ship-option:focus-visible {
+    background: #f3f5f7;
 }
 </style>
 
@@ -53,7 +63,6 @@ table {
 import { ref, computed } from "vue";
 import { NButton, NModal, NCard, NGrid, NSpace, NGridItem, NEmpty, NFormItem, NInput, NRow, NCol } from 'naive-ui'
 import { InputInst } from "naive-ui/lib/input/src/interface";
-import { ShipTemplate } from "../utils/types";
 import ShipBasicInfo from './ShipBasicInfo.vue'
 import ShipCard from './ShipCard.vue'
 import store from '../utils/store'
@@ -62,25 +71,11 @@ const showModal = ref(false);
 const ships = computed(() => store.state.ships);
 const pattern = ref<string>('');
 
-function customFilter(option: ShipTemplate) {
-    if ((!pattern.value) || pattern.value.length === 0) {
-        return true;
-    }
-    if (option.match.indexOf(pattern.value) > -1) {
-        return true;
-    }
-    return false;
-}
-
 const options = computed(() => {
-    let res = [];
-    console.log('store.state.shipTemplates', store.state.shipTemplates);
-    for (let key in store.state.shipTemplates) {
-        let info = { ...store.state.shipTemplates[key] }
-        info.key = info.id;
-        res.push(info)
-    }
-    return res;
+    const query = pattern.value.trim().toLowerCase();
+    return Object.values(store.state.shipTemplates)
+        .filter(ship => !query || String(ship.id).includes(query) || ship.name.toLowerCase().includes(query))
+        .sort((a, b) => a.id - b.id);
 })
 
 function addShip(templateId: number) {
@@ -99,4 +94,3 @@ function startAddShip() {
     }, 2);
 }
 </script>
-

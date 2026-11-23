@@ -242,15 +242,15 @@ const showTargetHelp = ref(false);
             <template #header-extra>
                 <n-button @click="showShipSelector = false">取消</n-button>
             </template>
-            <n-grid x-gap="2" cols="2 400:3 600:4 800:5 1000:6 1200:12">
-                <n-grid-item :bordered="false" class="ship-card" @click="setShip(null)">
+            <n-grid x-gap="8" y-gap="8" cols="2 400:3 600:4 800:5 1000:6 1200:12">
+                <n-grid-item :bordered="false" class="ship-option" @click="setShip(null)">
                     <ship-card :template="0" name="取消选择"></ship-card>
                 </n-grid-item>
                 <n-grid-item
                     v-for="ship in ships"
                     :key="ship.id"
                     :bordered="false"
-                    class="ship-card"
+                    class="ship-option"
                     v-show="fleetShipFilter(ship)"
                     @click="setShip(ship)"
                 >
@@ -280,5 +280,14 @@ const showTargetHelp = ref(false);
 <style scoped>
 .n-input-number {
     width: 90px;
+}
+.ship-option {
+    padding: 8px;
+    border: 1px solid #e0e0e6;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.ship-option:hover {
+    background: #f3f5f7;
 }
 </style>

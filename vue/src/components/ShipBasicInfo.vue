@@ -1,11 +1,9 @@
 <template>
     <n-space>
-        <img
-            :src="template.img"
-            :alt="template.name"
-            style="border-radius: 10px; width: 80px; height: 80px;"
-        />
         <n-space>
+            <n-form-item label="ID" :show-feedback="false" label-placement="left">
+                {{ shipRef.templateId }}
+            </n-form-item>
             <n-form-item
                 path="name"
                 :show-feedback="false"
@@ -63,10 +61,9 @@
 </template>
 
 <script setup lang="ts">
-import { watch, computed, ref } from "vue";
+import { watch, ref } from "vue";
 import { NFormItem, NInput, NSpace, NInputNumber, NSlider, NRadioButton, NRadioGroup } from 'naive-ui'
 import { Ship } from "../utils/types";
-import store from "../utils/store";
 import { getRawReload } from "../utils/formulas";
 
 const props = defineProps<{
@@ -76,10 +73,6 @@ const props = defineProps<{
 const emit = defineEmits<{
     (event: 'update:value', data: Ship): void
 }>();
-
-const template = computed(() => {
-    return store.state.shipTemplates[props.ship.templateId]
-})
 
 const shipRef = ref(props.ship);
 

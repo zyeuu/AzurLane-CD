@@ -108,8 +108,6 @@ interface ShipTemplate {
     reload: number[],
     equipSlots: EquipType[][],
     equipCnt: number[],
-    img: string,
-    match: string,
     buffs: BuffTemplate[],
     [key: string]: any
 }
@@ -120,7 +118,6 @@ interface EquipTemplate {
     type: EquipType,
     rarity: number,
     tech: number,
-    img: string,
     cd?: number,
     ship_type_forbidden?: ShipType[],
     allowShipTypes?: ShipType[],

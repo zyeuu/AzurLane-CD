@@ -9,15 +9,11 @@ import logging
 import time
 from pathlib import Path
 import json
-from pypinyin import slug, load_phrases_dict
 
 
 DEBUG = 0
 log = logging.getLogger(__name__)
 #
-
-# 使用自定义拼音库, 修正部分舰娘名称
-load_phrases_dict({'武藏': [['wǔ'], ['zàng']]})
 
 def need_download(path: Path, now, ttl):
     if not path.exists():
@@ -190,7 +186,6 @@ class DataHelper(object):
         self.ship_data_trans = self.load_json('ShareCfg/ship_data_trans.json')
         self.trans_data = self.load_json('ShareCfg/transform_data_template.json')
         assert len(self.trans_data) > 2
-        self.ship_skin = self.load_json('ShareCfg/ship_skin_template.json')
 
         # 技能数据
         self.buffcfg = self.load_json("GameCfg/buff.json")
@@ -310,7 +305,7 @@ class DataHelper(object):
         output = re.sub(r'\{namecode:(\d+)(?::([^}]*))?\}', self.namecode_repl, input)
         return output
 
-    def get_name_and_code(self, name: str):
+    def get_ship_name(self, name: str):
         for suffix in ['·META', '(μ兵装)', '.改']:
             if name.endswith(suffix):
                 name = name[: -len(suffix)]
@@ -319,20 +314,8 @@ class DataHelper(object):
             suffix = ''
         for item in self.namecode.values():
             if item['name'] == name:
-                return {
-                    'name': '{}({}){}'.format(name, item['code'], suffix),
-                    'matches': [name + suffix, item['code'] + suffix],
-                }
-        name = name + suffix
-        return {'name': name, 'matches': [name]}
-
-    def get_match_name(self, name):
-        info = self.get_name_and_code(name)
-        matches = info['matches']
-        matches += [slug(part, separator='').replace('μ', 'miu') for part in matches]
-        matches = [re.sub(r'[·\(\)\.]+', ' ', m).strip() for m in matches]
-        match = '|'.join(matches).lower()
-        return [info['name'], match]
+                return '{}({}){}'.format(name, item['code'], suffix)
+        return name + suffix
 
     def get_skills(self, skill_ids):
         results = []
@@ -374,7 +357,6 @@ class DataHelper(object):
         TARGET_TYPES = (4, 5, 6, 7, 10)
 
         result = {}
-        image_map = {}
 
         grps = list(sorted(ship_map))
         for grp in grps:
@@ -401,7 +383,6 @@ class DataHelper(object):
 
             if DEBUG:
                 print('trans', trans_reload, skin_id, trans_ship_id, skills)
-            skin_id = skin_id or int(grp) * 10
             if trans_ship_id:
                 trans_stats = self.ship_data[str(trans_ship_id)]
             else:
@@ -410,17 +391,15 @@ class DataHelper(object):
                 print('stats', stats)
                 print('trans_stats', trans_stats)
 
-            img_name: str = self.ship_skin[str(skin_id)]['prefab']
             if hastrans:
                 # 改造后的舰娘, 重命名
                 stats['name'] = stats['name'] + '.改'
-            name, match = self.get_match_name(stats['name'])
+            name = self.get_ship_name(stats['name'])
             reload_by_strength = self.get_strength_reload(str(templ['strengthen_id']))
             result[grp] = {
                 'id': grp,
                 'type': templ['type'],
                 'name': name,
-                'match': match,
                 'rarity': trans_stats['rarity'],
                 'reload': [
                     trans_stats[key][5]
@@ -436,11 +415,6 @@ class DataHelper(object):
             if reload_by_strength == 0:
                 print(f'强化获得的装填值为0: {name} {grp} {templ["strengthen_id"]}')
 
-            # 保存图片
-            dst_img_name = img_name[:-2] if img_name.endswith('_g') else img_name
-            dst_img_path = '/img/squareicon/' + dst_img_name + '.png'
-            result[grp]['img'] = dst_img_path
-            image_map['squareicon/' + img_name] = dst_img_path
         if DEBUG:
             raise ValueError()
         # 豪
@@ -466,7 +440,8 @@ class DataHelper(object):
                 "value": 50,
             }
         ]
-        return result, image_map
+        # 保留外部调用所需的图片映射返回值；舰船数据不再使用头像。
+        return result, {}
 
     def load_equip_template(self):
         base_map = {}
@@ -609,7 +584,7 @@ class DataHelper(object):
         return result
 
     def load_azcd_data(self):
-        """返回所有图片信息和修改的详情"""
+        """返回空图片映射和修改详情，保持外部调用接口兼容。"""
         # 加载上次的数据
         prev_data = load_current_data(self.datadir)
         # 创建输出目录

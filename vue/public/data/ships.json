@@ -26,8 +26,6 @@
       ]
     ],
     "id": 10401,
-    "img": "/img/squareicon/xingzuo.png",
-    "match": "星座|xingzuo",
     "name": "星座",
     "rarity": 5,
     "reload": [
@@ -80,8 +78,6 @@
       ]
     ],
     "id": 10501,
-    "img": "/img/squareicon/neihuada.png",
-    "match": "内华达 改|neihuada gai",
     "name": "内华达.改",
     "rarity": 2,
     "reload": [
@@ -134,8 +130,6 @@
       ]
     ],
     "id": 10502,
-    "img": "/img/squareicon/ekelahema.png",
-    "match": "俄克拉荷马 改|ekelahema gai",
     "name": "俄克拉荷马.改",
     "rarity": 2,
     "reload": [
@@ -188,8 +182,6 @@
       ]
     ],
     "id": 10503,
-    "img": "/img/squareicon/binxifaniya.png",
-    "match": "宾夕法尼亚|binxifaniya",
     "name": "宾夕法尼亚",
     "rarity": 3,
     "reload": [
@@ -236,8 +228,6 @@
       ]
     ],
     "id": 10504,
-    "img": "/img/squareicon/yalisangna.png",
-    "match": "亚利桑那|yalisangna",
     "name": "亚利桑那",
     "rarity": 4,
     "reload": [
@@ -284,8 +274,6 @@
       ]
     ],
     "id": 10507,
-    "img": "/img/squareicon/tiannaxi.png",
-    "match": "田纳西|tiannaxi",
     "name": "田纳西",
     "rarity": 3,
     "reload": [
@@ -332,8 +320,6 @@
       ]
     ],
     "id": 10508,
-    "img": "/img/squareicon/jialifuniya.png",
-    "match": "加利福尼亚|jialifuniya",
     "name": "加利福尼亚",
     "rarity": 3,
     "reload": [
@@ -380,8 +366,6 @@
       ]
     ],
     "id": 10509,
-    "img": "/img/squareicon/keluoladuo.png",
-    "match": "科罗拉多 改|keluoladuo gai",
     "name": "科罗拉多.改",
     "rarity": 4,
     "reload": [
@@ -434,8 +418,6 @@
       ]
     ],
     "id": 10510,
-    "img": "/img/squareicon/malilan.png",
-    "match": "马里兰 改|malilan gai",
     "name": "马里兰.改",
     "rarity": 4,
     "reload": [
@@ -494,8 +476,6 @@
       ]
     ],
     "id": 10511,
-    "img": "/img/squareicon/xifujiniya.png",
-    "match": "西弗吉尼亚 改|xifujiniya gai",
     "name": "西弗吉尼亚.改",
     "rarity": 4,
     "reload": [
@@ -548,8 +528,6 @@
       ]
     ],
     "id": 10512,
-    "img": "/img/squareicon/beikaluolaina.png",
-    "match": "北卡罗来纳|beikaluolaina",
     "name": "北卡罗来纳",
     "rarity": 5,
     "reload": [
@@ -602,8 +580,6 @@
       ]
     ],
     "id": 10513,
-    "img": "/img/squareicon/huashengdun.png",
-    "match": "华盛顿|huashengdun",
     "name": "华盛顿",
     "rarity": 5,
     "reload": [
@@ -656,8 +632,6 @@
       ]
     ],
     "id": 10514,
-    "img": "/img/squareicon/nandaketa.png",
-    "match": "南达科他|nandaketa",
     "name": "南达科他",
     "rarity": 5,
     "reload": [
@@ -710,8 +684,6 @@
       ]
     ],
     "id": 10515,
-    "img": "/img/squareicon/yindianna.png",
-    "match": "印第安纳|yindianna",
     "name": "印第安纳",
     "rarity": 5,
     "reload": [
@@ -764,8 +736,6 @@
       ]
     ],
     "id": 10517,
-    "img": "/img/squareicon/xinzexi.png",
-    "match": "新泽西|花园|xinzexi|huayuan",
     "name": "新泽西(花园)",
     "rarity": 6,
     "reload": [
@@ -824,8 +794,6 @@
       ]
     ],
     "id": 10519,
-    "img": "/img/squareicon/masazhusai.png",
-    "match": "马萨诸塞|masazhusai",
     "name": "马萨诸塞",
     "rarity": 5,
     "reload": [
@@ -878,8 +846,6 @@
       ]
     ],
     "id": 10520,
-    "img": "/img/squareicon/alabama.png",
-    "match": "阿拉巴马|alabama",
     "name": "阿拉巴马",
     "rarity": 5,
     "reload": [
@@ -933,8 +899,6 @@
       ]
     ],
     "id": 10601,
-    "img": "/img/squareicon/changdao.png",
-    "match": "长岛 改|zhangdao gai",
     "name": "长岛.改",
     "rarity": 3,
     "reload": [
@@ -988,8 +952,6 @@
       ]
     ],
     "id": 10602,
-    "img": "/img/squareicon/boge.png",
-    "match": "博格 改|boge gai",
     "name": "博格.改",
     "rarity": 2,
     "reload": [
@@ -1043,8 +1005,6 @@
       ]
     ],
     "id": 10655,
-    "img": "/img/squareicon/kasabulanka.png",
-    "match": "卡萨布兰卡|kasabulanka",
     "name": "卡萨布兰卡",
     "rarity": 3,
     "reload": [
@@ -1098,8 +1058,6 @@
       ]
     ],
     "id": 10701,
-    "img": "/img/squareicon/lanli.png",
-    "match": "兰利 改|lanli gai",
     "name": "兰利.改",
     "rarity": 2,
     "reload": [
@@ -1151,8 +1109,6 @@
       ]
     ],
     "id": 10702,
-    "img": "/img/squareicon/liekexingdun.png",
-    "match": "列克星敦|liekexingdun",
     "name": "列克星敦",
     "rarity": 4,
     "reload": [
@@ -1204,8 +1160,6 @@
       ]
     ],
     "id": 10703,
-    "img": "/img/squareicon/salatuojia.png",
-    "match": "萨拉托加 改|salatuojia gai",
     "name": "萨拉托加.改",
     "rarity": 4,
     "reload": [
@@ -1265,8 +1219,6 @@
       ]
     ],
     "id": 10704,
-    "img": "/img/squareicon/tujizhe.png",
-    "match": "突击者 改|tujizhe gai",
     "name": "突击者.改",
     "rarity": 2,
     "reload": [
@@ -1318,8 +1270,6 @@
       ]
     ],
     "id": 10705,
-    "img": "/img/squareicon/yuekecheng.png",
-    "match": "约克城|yuekecheng",
     "name": "约克城",
     "rarity": 4,
     "reload": [
@@ -1371,8 +1321,6 @@
       ]
     ],
     "id": 10706,
-    "img": "/img/squareicon/qiye.png",
-    "match": "企业|qiye",
     "name": "企业",
     "rarity": 5,
     "reload": [
@@ -1418,8 +1366,6 @@
       ]
     ],
     "id": 10707,
-    "img": "/img/squareicon/dahuangfeng.png",
-    "match": "大黄蜂|daihuangfeng",
     "name": "大黄蜂",
     "rarity": 4,
     "reload": [
@@ -1471,8 +1417,6 @@
       ]
     ],
     "id": 10708,
-    "img": "/img/squareicon/hufeng.png",
-    "match": "胡蜂|hufeng",
     "name": "胡蜂",
     "rarity": 3,
     "reload": [
@@ -1520,8 +1464,6 @@
       ]
     ],
     "id": 10709,
-    "img": "/img/squareicon/aisaikesi.png",
-    "match": "埃塞克斯 改|aisaikesi gai",
     "name": "埃塞克斯.改",
     "rarity": 5,
     "reload": [
@@ -1587,8 +1529,6 @@
       ]
     ],
     "id": 10710,
-    "img": "/img/squareicon/yuekechengII.png",
-    "match": "约克城ii|yuekechengii",
     "name": "约克城II",
     "rarity": 6,
     "reload": [
@@ -1646,8 +1586,6 @@
       ]
     ],
     "id": 10711,
-    "img": "/img/squareicon/wuwei.png",
-    "match": "无畏|wuwei",
     "name": "无畏",
     "rarity": 5,
     "reload": [
@@ -1705,8 +1643,6 @@
       ]
     ],
     "id": 10712,
-    "img": "/img/squareicon/dahuangfengII.png",
-    "match": "大黄蜂ii|daihuangfengii",
     "name": "大黄蜂II",
     "rarity": 5,
     "reload": [
@@ -1764,8 +1700,6 @@
       ]
     ],
     "id": 10713,
-    "img": "/img/squareicon/fulankelin.png",
-    "match": "富兰克林|fulankelin",
     "name": "富兰克林",
     "rarity": 5,
     "reload": [
@@ -1817,8 +1751,6 @@
       ]
     ],
     "id": 10714,
-    "img": "/img/squareicon/tikangdeluojia.png",
-    "match": "提康德罗加|卡莉永|tikangdeluojia|kaliyong",
     "name": "提康德罗加(卡莉永)",
     "rarity": 5,
     "reload": [
@@ -1878,8 +1810,6 @@
       ]
     ],
     "id": 10716,
-    "img": "/img/squareicon/liekexingdunII.png",
-    "match": "列克星敦ii|liekexingdunii",
     "name": "列克星敦II",
     "rarity": 6,
     "reload": [
@@ -1937,8 +1867,6 @@
       ]
     ],
     "id": 10717,
-    "img": "/img/squareicon/bangkeshan.png",
-    "match": "邦克山|bangkeshan",
     "name": "邦克山",
     "rarity": 5,
     "reload": [
@@ -1992,8 +1920,6 @@
       ]
     ],
     "id": 10722,
-    "img": "/img/squareicon/duli.png",
-    "match": "独立 改|duli gai",
     "name": "独立.改",
     "rarity": 4,
     "reload": [
@@ -2053,8 +1979,6 @@
       ]
     ],
     "id": 10723,
-    "img": "/img/squareicon/pulinsidun.png",
-    "match": "普林斯顿|pulinsidun",
     "name": "普林斯顿",
     "rarity": 4,
     "reload": [
@@ -2108,8 +2032,6 @@
       ]
     ],
     "id": 10725,
-    "img": "/img/squareicon/kebensi.png",
-    "match": "科本斯|kebensi",
     "name": "科本斯",
     "rarity": 5,
     "reload": [
@@ -2163,8 +2085,6 @@
       ]
     ],
     "id": 10727,
-    "img": "/img/squareicon/lanliII.png",
-    "match": "兰利ii|lanliii",
     "name": "兰利II",
     "rarity": 4,
     "reload": [
@@ -2218,8 +2138,6 @@
       ]
     ],
     "id": 10729,
-    "img": "/img/squareicon/badan.png",
-    "match": "巴丹|badan",
     "name": "巴丹",
     "rarity": 4,
     "reload": [
@@ -2273,8 +2191,6 @@
       ]
     ],
     "id": 10730,
-    "img": "/img/squareicon/shenghaxintuo.png",
-    "match": "圣哈辛托|shenghaxintuo",
     "name": "圣哈辛托",
     "rarity": 4,
     "reload": [
@@ -2326,8 +2242,6 @@
       ]
     ],
     "id": 10738,
-    "img": "/img/squareicon/xianggelila.png",
-    "match": "香格里拉|xianggelila",
     "name": "香格里拉",
     "rarity": 5,
     "reload": [
@@ -2379,8 +2293,6 @@
       ]
     ],
     "id": 10799,
-    "img": "/img/squareicon/qiye_younv.png",
-    "match": "小企业|xiaoqiye",
     "name": "小企业",
     "rarity": 4,
     "reload": [
@@ -2427,8 +2339,6 @@
       ]
     ],
     "id": 19902,
-    "img": "/img/squareicon/zuozhiya.png",
-    "match": "佐治亚|zuozhiya",
     "name": "佐治亚",
     "rarity": 5,
     "reload": [
@@ -2487,8 +2397,6 @@
       ]
     ],
     "id": 19904,
-    "img": "/img/squareicon/qiershazhi.png",
-    "match": "奇尔沙治|qiershazhi",
     "name": "奇尔沙治",
     "rarity": 6,
     "reload": [
@@ -2553,8 +2461,6 @@
       ]
     ],
     "id": 19906,
-    "img": "/img/squareicon/kansasi.png",
-    "match": "堪萨斯|kansasi",
     "name": "堪萨斯",
     "rarity": 5,
     "reload": [
@@ -2613,8 +2519,6 @@
       ]
     ],
     "id": 20401,
-    "img": "/img/squareicon/shengwang.png",
-    "match": "声望|shengwang",
     "name": "声望",
     "rarity": 4,
     "reload": [
@@ -2661,8 +2565,6 @@
       ]
     ],
     "id": 20402,
-    "img": "/img/squareicon/fanji.png",
-    "match": "反击|fanji",
     "name": "反击",
     "rarity": 3,
     "reload": [
@@ -2709,8 +2611,6 @@
       ]
     ],
     "id": 20403,
-    "img": "/img/squareicon/hude.png",
-    "match": "胡德|hude",
     "name": "胡德",
     "rarity": 5,
     "reload": [
@@ -2757,8 +2657,6 @@
       ]
     ],
     "id": 20404,
-    "img": "/img/squareicon/shengwang_younv.png",
-    "match": "小声望|xiaoshengwang",
     "name": "小声望",
     "rarity": 4,
     "reload": [
@@ -2812,8 +2710,6 @@
       ]
     ],
     "id": 20501,
-    "img": "/img/squareicon/yilishabai.png",
-    "match": "伊丽莎白女王|yilishabainvwang",
     "name": "伊丽莎白女王",
     "rarity": 4,
     "reload": [
@@ -2862,8 +2758,6 @@
       ]
     ],
     "id": 20502,
-    "img": "/img/squareicon/yanzhan.png",
-    "match": "厌战 改|yanzhan gai",
     "name": "厌战.改",
     "rarity": 5,
     "reload": [
@@ -2917,8 +2811,6 @@
       ]
     ],
     "id": 20503,
-    "img": "/img/squareicon/naerxun.png",
-    "match": "纳尔逊 改|naerxun gai",
     "name": "纳尔逊.改",
     "rarity": 4,
     "reload": [
@@ -2972,8 +2864,6 @@
       ]
     ],
     "id": 20504,
-    "img": "/img/squareicon/luodeni.png",
-    "match": "罗德尼|luodeni",
     "name": "罗德尼",
     "rarity": 4,
     "reload": [
@@ -3021,8 +2911,6 @@
       ]
     ],
     "id": 20505,
-    "img": "/img/squareicon/qiaozhiwushi.png",
-    "match": "英王乔治五世|yingwangqiaozhiwushi",
     "name": "英王乔治五世",
     "rarity": 5,
     "reload": [
@@ -3076,8 +2964,6 @@
       ]
     ],
     "id": 20506,
-    "img": "/img/squareicon/weiershiqinwang.png",
-    "match": "威尔士亲王|weiershiqinwang",
     "name": "威尔士亲王",
     "rarity": 5,
     "reload": [
@@ -3125,8 +3011,6 @@
       ]
     ],
     "id": 20507,
-    "img": "/img/squareicon/yuekegongjue.png",
-    "match": "约克公爵|yuekegongjue",
     "name": "约克公爵",
     "rarity": 5,
     "reload": [
@@ -3203,8 +3087,6 @@
       ]
     ],
     "id": 20509,
-    "img": "/img/squareicon/hao.png",
-    "match": "豪|hao",
     "name": "豪",
     "rarity": 5,
     "reload": [
@@ -3258,8 +3140,6 @@
       ]
     ],
     "id": 20510,
-    "img": "/img/squareicon/yingyong.png",
-    "match": "英勇|yingyong",
     "name": "英勇",
     "rarity": 4,
     "reload": [
@@ -3313,8 +3193,6 @@
       ]
     ],
     "id": 20511,
-    "img": "/img/squareicon/fuchou.png",
-    "match": "复仇|fuchou",
     "name": "复仇",
     "rarity": 4,
     "reload": [
@@ -3368,8 +3246,6 @@
       ]
     ],
     "id": 20513,
-    "img": "/img/squareicon/qianwei.png",
-    "match": "前卫|qianwei",
     "name": "前卫",
     "rarity": 6,
     "reload": [
@@ -3429,8 +3305,6 @@
       ]
     ],
     "id": 20514,
-    "img": "/img/squareicon/huangjiaxiangshu.png",
-    "match": "皇家橡树|huangjiaxiangshu",
     "name": "皇家橡树",
     "rarity": 5,
     "reload": [
@@ -3484,8 +3358,6 @@
       ]
     ],
     "id": 20516,
-    "img": "/img/squareicon/shi.png",
-    "match": "狮|shi",
     "name": "狮",
     "rarity": 6,
     "reload": [
@@ -3545,8 +3417,6 @@
       ]
     ],
     "id": 20601,
-    "img": "/img/squareicon/jingjishen.png",
-    "match": "竞技神 改|jingjishen gai",
     "name": "竞技神.改",
     "rarity": 2,
     "reload": [
@@ -3600,8 +3470,6 @@
       ]
     ],
     "id": 20602,
-    "img": "/img/squareicon/baiyanjuren.png",
-    "match": "百眼巨人|baiyanjuren",
     "name": "百眼巨人",
     "rarity": 4,
     "reload": [
@@ -3655,8 +3523,6 @@
       ]
     ],
     "id": 20603,
-    "img": "/img/squareicon/dujiaoshou.png",
-    "match": "独角兽 改|dujiaoshou gai",
     "name": "独角兽.改",
     "rarity": 4,
     "reload": [
@@ -3710,8 +3576,6 @@
       ]
     ],
     "id": 20604,
-    "img": "/img/squareicon/banrenma.png",
-    "match": "半人马|banrenma",
     "name": "半人马",
     "rarity": 5,
     "reload": [
@@ -3765,8 +3629,6 @@
       ]
     ],
     "id": 20605,
-    "img": "/img/squareicon/zhuiganzhe.png",
-    "match": "追赶者|zhuiganzhe",
     "name": "追赶者",
     "rarity": 4,
     "reload": [
@@ -3820,8 +3682,6 @@
       ]
     ],
     "id": 20606,
-    "img": "/img/squareicon/yingxianzuo.png",
-    "match": "英仙座|yingxianzuo",
     "name": "英仙座",
     "rarity": 5,
     "reload": [
@@ -3882,8 +3742,6 @@
       ]
     ],
     "id": 20607,
-    "img": "/img/squareicon/aerbien.png",
-    "match": "阿尔比恩|aerbien",
     "name": "阿尔比恩",
     "rarity": 5,
     "reload": [
@@ -3943,8 +3801,6 @@
       ]
     ],
     "id": 20608,
-    "img": "/img/squareicon/texiusi.png",
-    "match": "忒修斯|texiusi",
     "name": "忒修斯",
     "rarity": 5,
     "reload": [
@@ -4003,8 +3859,6 @@
       ]
     ],
     "id": 20701,
-    "img": "/img/squareicon/ying.png",
-    "match": "鹰|ying",
     "name": "鹰",
     "rarity": 4,
     "reload": [
@@ -4056,8 +3910,6 @@
       ]
     ],
     "id": 20702,
-    "img": "/img/squareicon/huangjiafangzhou.png",
-    "match": "皇家方舟 改|huangjiafangzhou gai",
     "name": "皇家方舟.改",
     "rarity": 4,
     "reload": [
@@ -4115,8 +3967,6 @@
       ]
     ],
     "id": 20703,
-    "img": "/img/squareicon/guanghui.png",
-    "match": "光辉|guanghui",
     "name": "光辉",
     "rarity": 5,
     "reload": [
@@ -4162,8 +4012,6 @@
       ]
     ],
     "id": 20704,
-    "img": "/img/squareicon/shengli.png",
-    "match": "胜利|shengli",
     "name": "胜利",
     "rarity": 5,
     "reload": [
@@ -4216,8 +4064,6 @@
       ]
     ],
     "id": 20705,
-    "img": "/img/squareicon/kewei.png",
-    "match": "可畏|kewei",
     "name": "可畏",
     "rarity": 5,
     "reload": [
@@ -4275,8 +4121,6 @@
       ]
     ],
     "id": 20706,
-    "img": "/img/squareicon/guangrong.png",
-    "match": "光荣|guangrong",
     "name": "光荣",
     "rarity": 4,
     "reload": [
@@ -4330,8 +4174,6 @@
       ]
     ],
     "id": 20707,
-    "img": "/img/squareicon/yuanchou.png",
-    "match": "怨仇|yuanchou",
     "name": "怨仇",
     "rarity": 6,
     "reload": [
@@ -4389,8 +4231,6 @@
       ]
     ],
     "id": 20709,
-    "img": "/img/squareicon/guanghui_younv.png",
-    "match": "小光辉|xiaoguanghui",
     "name": "小光辉",
     "rarity": 4,
     "reload": [
@@ -4442,8 +4282,6 @@
       ]
     ],
     "id": 20711,
-    "img": "/img/squareicon/guanghui_idol.png",
-    "match": "光辉 μ兵装|guanghui miubingzhuang",
     "name": "光辉(μ兵装)",
     "rarity": 5,
     "reload": [
@@ -4495,8 +4333,6 @@
       ]
     ],
     "id": 20712,
-    "img": "/img/squareicon/bunao.png",
-    "match": "不挠|bunao",
     "name": "不挠",
     "rarity": 5,
     "reload": [
@@ -4555,8 +4391,6 @@
       ]
     ],
     "id": 20713,
-    "img": "/img/squareicon/kewei_younv.png",
-    "match": "小可畏|xiaokewei",
     "name": "小可畏",
     "rarity": 4,
     "reload": [
@@ -4609,8 +4443,6 @@
       ]
     ],
     "id": 20714,
-    "img": "/img/squareicon/kewei_idol.png",
-    "match": "可畏 μ兵装|kewei miubingzhuang",
     "name": "可畏(μ兵装)",
     "rarity": 5,
     "reload": [
@@ -4670,8 +4502,6 @@
       ]
     ],
     "id": 29902,
-    "img": "/img/squareicon/junzhu.png",
-    "match": "君主|junzhu",
     "name": "君主",
     "rarity": 5,
     "reload": [
@@ -4731,8 +4561,6 @@
       ]
     ],
     "id": 30401,
-    "img": "/img/squareicon/jingang.png",
-    "match": "金刚|鲤|jingang|li",
     "name": "金刚(鲤)",
     "rarity": 4,
     "reload": [
@@ -4780,8 +4608,6 @@
       ]
     ],
     "id": 30402,
-    "img": "/img/squareicon/birui.png",
-    "match": "比叡|鲟|birui|xun",
     "name": "比叡(鲟)",
     "rarity": 4,
     "reload": [
@@ -4829,8 +4655,6 @@
       ]
     ],
     "id": 30403,
-    "img": "/img/squareicon/zhenming.png",
-    "match": "榛名|鲑|zhenming|gui",
     "name": "榛名(鲑)",
     "rarity": 4,
     "reload": [
@@ -4878,8 +4702,6 @@
       ]
     ],
     "id": 30404,
-    "img": "/img/squareicon/wudao.png",
-    "match": "雾岛|鳗|wudao|man",
     "name": "雾岛(鳗)",
     "rarity": 4,
     "reload": [
@@ -4927,8 +4749,6 @@
       ]
     ],
     "id": 30405,
-    "img": "/img/squareicon/tiancheng.png",
-    "match": "天城|鳐|tiancheng|yao",
     "name": "天城(鳐)",
     "rarity": 5,
     "reload": [
@@ -4988,8 +4808,6 @@
       ]
     ],
     "id": 30406,
-    "img": "/img/squareicon/birui_younv.png",
-    "match": "小比叡|小鲟|xiaobirui|xiaoxun",
     "name": "小比叡(小鲟)",
     "rarity": 4,
     "reload": [
@@ -5043,8 +4861,6 @@
       ]
     ],
     "id": 30407,
-    "img": "/img/squareicon/tiancheng_younv.png",
-    "match": "小天城|小鳐|xiaotiancheng|xiaoyao",
     "name": "小天城(小鳐)",
     "rarity": 4,
     "reload": [
@@ -5098,8 +4914,6 @@
       ]
     ],
     "id": 30408,
-    "img": "/img/squareicon/jingang_idol.png",
-    "match": "金刚 μ兵装|鲤 μ兵装|jingang miubingzhuang|li miubingzhuang",
     "name": "金刚(鲤)(μ兵装)",
     "rarity": 4,
     "reload": [
@@ -5154,8 +4968,6 @@
       ]
     ],
     "id": 30501,
-    "img": "/img/squareicon/fusang.png",
-    "match": "扶桑 改|魟 改|fusang gai|hong gai",
     "name": "扶桑(魟).改",
     "rarity": 3,
     "reload": [
@@ -5210,8 +5022,6 @@
       ]
     ],
     "id": 30502,
-    "img": "/img/squareicon/shancheng.png",
-    "match": "山城 改|鲼 改|shancheng gai|fen gai",
     "name": "山城(鲼).改",
     "rarity": 3,
     "reload": [
@@ -5266,8 +5076,6 @@
       ]
     ],
     "id": 30503,
-    "img": "/img/squareicon/yishi.png",
-    "match": "伊势 改|鳌 改|yishi gai|ao gai",
     "name": "伊势(鳌).改",
     "rarity": 3,
     "reload": [
@@ -5322,8 +5130,6 @@
       ]
     ],
     "id": 30504,
-    "img": "/img/squareicon/rixiang.png",
-    "match": "日向 改|螯 改|rixiang gai|ao gai",
     "name": "日向(螯).改",
     "rarity": 3,
     "reload": [
@@ -5383,8 +5189,6 @@
       ]
     ],
     "id": 30505,
-    "img": "/img/squareicon/changmen.png",
-    "match": "长门|鲨|changmen|sha",
     "name": "长门(鲨)",
     "rarity": 5,
     "reload": [
@@ -5438,8 +5242,6 @@
       ]
     ],
     "id": 30506,
-    "img": "/img/squareicon/luao.png",
-    "match": "陆奥|鲛|luao|jiao",
     "name": "陆奥(鲛)",
     "rarity": 4,
     "reload": [
@@ -5487,8 +5289,6 @@
       ]
     ],
     "id": 30507,
-    "img": "/img/squareicon/jiahezhanlie.png",
-    "match": "加贺|鸾|jiahe|luan",
     "name": "加贺(鸾)",
     "rarity": 5,
     "reload": [
@@ -5542,8 +5342,6 @@
       ]
     ],
     "id": 30508,
-    "img": "/img/squareicon/tuzuo.png",
-    "match": "土佐|䲠|tuzuo|chun",
     "name": "土佐(䲠)",
     "rarity": 5,
     "reload": [
@@ -5597,8 +5395,6 @@
       ]
     ],
     "id": 30510,
-    "img": "/img/squareicon/wuzang.png",
-    "match": "武藏|鳄|wuzang|e",
     "name": "武藏(鳄)",
     "rarity": 6,
     "reload": [
@@ -5657,8 +5453,6 @@
       ]
     ],
     "id": 30511,
-    "img": "/img/squareicon/sanli.png",
-    "match": "三笠|鲐|sanli|tai",
     "name": "三笠(鲐)",
     "rarity": 5,
     "reload": [
@@ -5712,8 +5506,6 @@
       ]
     ],
     "id": 30512,
-    "img": "/img/squareicon/jiyi.png",
-    "match": "纪伊|鲣|jiyi|jian",
     "name": "纪伊(鲣)",
     "rarity": 5,
     "reload": [
@@ -5767,8 +5559,6 @@
       ]
     ],
     "id": 30513,
-    "img": "/img/squareicon/weizhang.png",
-    "match": "尾张|鳂|weizhang|wei",
     "name": "尾张(鳂)",
     "rarity": 5,
     "reload": [
@@ -5822,8 +5612,6 @@
       ]
     ],
     "id": 30514,
-    "img": "/img/squareicon/junhe.png",
-    "match": "骏河|鲪|junhe|jun",
     "name": "骏河(鲪)",
     "rarity": 5,
     "reload": [
@@ -5877,8 +5665,6 @@
       ]
     ],
     "id": 30516,
-    "img": "/img/squareicon/jinjiang.png",
-    "match": "近江|鳉|jinjiang|jiang",
     "name": "近江(鳉)",
     "rarity": 5,
     "reload": [
@@ -5932,8 +5718,6 @@
       ]
     ],
     "id": 30601,
-    "img": "/img/squareicon/feiying.png",
-    "match": "飞鹰|鸱|feiying|chi",
     "name": "飞鹰(鸱)",
     "rarity": 3,
     "reload": [
@@ -5981,8 +5765,6 @@
       ]
     ],
     "id": 30602,
-    "img": "/img/squareicon/sunying.png",
-    "match": "隼鹰|鸢|sunying|yuan",
     "name": "隼鹰(鸢)",
     "rarity": 3,
     "reload": [
@@ -6030,8 +5812,6 @@
       ]
     ],
     "id": 30603,
-    "img": "/img/squareicon/fengxiang.png",
-    "match": "凤翔|凤|fengxiang|feng",
     "name": "凤翔(凤)",
     "rarity": 4,
     "reload": [
@@ -6085,8 +5865,6 @@
       ]
     ],
     "id": 30604,
-    "img": "/img/squareicon/ruifeng.png",
-    "match": "瑞凤|鹳|ruifeng|guan",
     "name": "瑞凤(鹳)",
     "rarity": 5,
     "reload": [
@@ -6140,8 +5918,6 @@
       ]
     ],
     "id": 30605,
-    "img": "/img/squareicon/xiangfeng.png",
-    "match": "祥凤 改|鹞 改|xiangfeng gai|yao gai",
     "name": "祥凤(鹞).改",
     "rarity": 3,
     "reload": [
@@ -6195,8 +5971,6 @@
       ]
     ],
     "id": 30606,
-    "img": "/img/squareicon/longxiang.png",
-    "match": "龙骧|枭|longxiang|xiao",
     "name": "龙骧(枭)",
     "rarity": 4,
     "reload": [
@@ -6250,8 +6024,6 @@
       ]
     ],
     "id": 30607,
-    "img": "/img/squareicon/longfeng.png",
-    "match": "龙凤|鸗|longfeng|long",
     "name": "龙凤(鸗)",
     "rarity": 5,
     "reload": [
@@ -6305,8 +6077,6 @@
       ]
     ],
     "id": 30608,
-    "img": "/img/squareicon/qiansui.png",
-    "match": "千岁|鹂|qiansui|li",
     "name": "千岁(鹂)",
     "rarity": 4,
     "reload": [
@@ -6360,8 +6130,6 @@
       ]
     ],
     "id": 30609,
-    "img": "/img/squareicon/qiandaitian.png",
-    "match": "千代田|鹃|qiandaitian|juan",
     "name": "千代田(鹃)",
     "rarity": 4,
     "reload": [
@@ -6413,8 +6181,6 @@
       ]
     ],
     "id": 30701,
-    "img": "/img/squareicon/chicheng.png",
-    "match": "赤城|凰|chicheng|huang",
     "name": "赤城(凰)",
     "rarity": 5,
     "reload": [
@@ -6466,8 +6232,6 @@
       ]
     ],
     "id": 30702,
-    "img": "/img/squareicon/jiahe.png",
-    "match": "加贺|鸾|jiahe|luan",
     "name": "加贺(鸾)",
     "rarity": 5,
     "reload": [
@@ -6519,8 +6283,6 @@
       ]
     ],
     "id": 30703,
-    "img": "/img/squareicon/canglong.png",
-    "match": "苍龙 改|蛟 改|canglong gai|jiao gai",
     "name": "苍龙(蛟).改",
     "rarity": 4,
     "reload": [
@@ -6578,8 +6340,6 @@
       ]
     ],
     "id": 30704,
-    "img": "/img/squareicon/feilong.png",
-    "match": "飞龙 改|龙 改|feilong gai|long gai",
     "name": "飞龙(龙).改",
     "rarity": 4,
     "reload": [
@@ -6637,8 +6397,6 @@
       ]
     ],
     "id": 30705,
-    "img": "/img/squareicon/xianghe.png",
-    "match": "翔鹤|鹬|xianghe|yu",
     "name": "翔鹤(鹬)",
     "rarity": 5,
     "reload": [
@@ -6690,8 +6448,6 @@
       ]
     ],
     "id": 30706,
-    "img": "/img/squareicon/ruihe.png",
-    "match": "瑞鹤|鹤|ruihe|he",
     "name": "瑞鹤(鹤)",
     "rarity": 5,
     "reload": [
@@ -6743,8 +6499,6 @@
       ]
     ],
     "id": 30707,
-    "img": "/img/squareicon/dafeng.png",
-    "match": "大凤|鹩|dafeng|liao",
     "name": "大凤(鹩)",
     "rarity": 5,
     "reload": [
@@ -6798,8 +6552,6 @@
       ]
     ],
     "id": 30708,
-    "img": "/img/squareicon/xinnong.png",
-    "match": "信浓|鵗|xinnong|xi",
     "name": "信浓(鵗)",
     "rarity": 6,
     "reload": [
@@ -6857,8 +6609,6 @@
       ]
     ],
     "id": 30709,
-    "img": "/img/squareicon/chicheng_younv.png",
-    "match": "小赤城|小凰|xiaochicheng|xiaohuang",
     "name": "小赤城(小凰)",
     "rarity": 4,
     "reload": [
@@ -6910,8 +6660,6 @@
       ]
     ],
     "id": 30710,
-    "img": "/img/squareicon/chicheng_idol.png",
-    "match": "赤城 μ兵装|凰 μ兵装|chicheng miubingzhuang|huang miubingzhuang",
     "name": "赤城(凰)(μ兵装)",
     "rarity": 5,
     "reload": [
@@ -6963,8 +6711,6 @@
       ]
     ],
     "id": 30711,
-    "img": "/img/squareicon/dafeng_idol.png",
-    "match": "大凤 μ兵装|鹩 μ兵装|dafeng miubingzhuang|liao miubingzhuang",
     "name": "大凤(鹩)(μ兵装)",
     "rarity": 5,
     "reload": [
@@ -7016,8 +6762,6 @@
       ]
     ],
     "id": 30712,
-    "img": "/img/squareicon/gecheng.png",
-    "match": "葛城|鹖|gecheng|he",
     "name": "葛城(鹖)",
     "rarity": 5,
     "reload": [
@@ -7069,8 +6813,6 @@
       ]
     ],
     "id": 30713,
-    "img": "/img/squareicon/dafeng_younv.png",
-    "match": "小大凤|小鹩|xiaodafeng|xiaoliao",
     "name": "小大凤(小鹩)",
     "rarity": 4,
     "reload": [
@@ -7124,8 +6866,6 @@
       ]
     ],
     "id": 30714,
-    "img": "/img/squareicon/xinnong_younv.png",
-    "match": "小信浓|小鵗|xiaoxinnong|xiaoxi",
     "name": "小信浓(小鵗)",
     "rarity": 4,
     "reload": [
@@ -7179,8 +6919,6 @@
       ]
     ],
     "id": 30715,
-    "img": "/img/squareicon/tiancheng_cv.png",
-    "match": "天城|鳐|tiancheng|yao",
     "name": "天城(鳐)",
     "rarity": 6,
     "reload": [
@@ -7240,8 +6978,6 @@
       ]
     ],
     "id": 30716,
-    "img": "/img/squareicon/baifeng.png",
-    "match": "白凤|䳆|baifeng|bai",
     "name": "白凤(䳆)",
     "rarity": 6,
     "reload": [
@@ -7299,8 +7035,6 @@
       ]
     ],
     "id": 30717,
-    "img": "/img/squareicon/yunlong.png",
-    "match": "云龙|靇|yunlong|long",
     "name": "云龙(靇)",
     "rarity": 5,
     "reload": [
@@ -7354,8 +7088,6 @@
       ]
     ],
     "id": 39902,
-    "img": "/img/squareicon/chuyun.png",
-    "match": "出云|侌|chuyun|yin",
     "name": "出云(侌)",
     "rarity": 5,
     "reload": [
@@ -7415,8 +7147,6 @@
       ]
     ],
     "id": 39905,
-    "img": "/img/squareicon/bailong.png",
-    "match": "白龙|鹫|bailong|jiu",
     "name": "白龙(鹫)",
     "rarity": 6,
     "reload": [
@@ -7482,8 +7212,6 @@
       ]
     ],
     "id": 39907,
-    "img": "/img/squareicon/dashan.png",
-    "match": "大山|鳝|dashan|shan",
     "name": "大山(鳝)",
     "rarity": 5,
     "reload": [
@@ -7543,8 +7271,6 @@
       ]
     ],
     "id": 40401,
-    "img": "/img/squareicon/shaenhuosite.png",
-    "match": "沙恩霍斯特|格尔林德|shaenhuosite|geerlinde",
     "name": "沙恩霍斯特(格尔林德)",
     "rarity": 4,
     "reload": [
@@ -7598,8 +7324,6 @@
       ]
     ],
     "id": 40402,
-    "img": "/img/squareicon/genaisennao.png",
-    "match": "格奈森瑙|奥古斯塔|genaisennao|aogusita",
     "name": "格奈森瑙(奥古斯塔)",
     "rarity": 4,
     "reload": [
@@ -7654,8 +7378,6 @@
       ]
     ],
     "id": 40403,
-    "img": "/img/squareicon/saidelici.png",
-    "match": "塞德利茨|桑德菈|saidelici|sangdela",
     "name": "塞德利茨(桑德菈)",
     "rarity": 5,
     "reload": [
@@ -7716,8 +7438,6 @@
       ]
     ],
     "id": 40404,
-    "img": "/img/squareicon/lvzuofu.png",
-    "match": "吕佐夫|露西|lvzuofu|luxi",
     "name": "吕佐夫(露西)",
     "rarity": 5,
     "reload": [
@@ -7777,8 +7497,6 @@
       ]
     ],
     "id": 40405,
-    "img": "/img/squareicon/bulunxierde.png",
-    "match": "布伦希尔德|贝尔莎|bulunxierde|beiersha",
     "name": "布伦希尔德(贝尔莎)",
     "rarity": 5,
     "reload": [
@@ -7832,8 +7550,6 @@
       ]
     ],
     "id": 40406,
-    "img": "/img/squareicon/yaerweite.png",
-    "match": "亚尔薇特|yaerweite",
     "name": "亚尔薇特",
     "rarity": 5,
     "reload": [
@@ -7887,8 +7603,6 @@
       ]
     ],
     "id": 40407,
-    "img": "/img/squareicon/zengkehaijunshangjiang.png",
-    "match": "曾克海军上将|泽特|cengkehaijunshangjiang|zete",
     "name": "曾克海军上将(泽特)",
     "rarity": 5,
     "reload": [
@@ -7942,8 +7656,6 @@
       ]
     ],
     "id": 40501,
-    "img": "/img/squareicon/bisimai.png",
-    "match": "俾斯麦|奥德莉亚|bisimai|aodeliya",
     "name": "俾斯麦(奥德莉亚)",
     "rarity": 5,
     "reload": [
@@ -8009,8 +7721,6 @@
       ]
     ],
     "id": 40502,
-    "img": "/img/squareicon/tierbici.png",
-    "match": "提尔比茨|阿尔芙莉达|tierbici|aerfulida",
     "name": "提尔比茨(阿尔芙莉达)",
     "rarity": 5,
     "reload": [
@@ -8064,8 +7774,6 @@
       ]
     ],
     "id": 40503,
-    "img": "/img/squareicon/wuerlixi.png",
-    "match": "乌尔里希 冯 胡滕|乌尔里克 冯 胡贝尔|wuerlixi feng huteng|wuerlike feng hubeier",
     "name": "乌尔里希·冯·胡滕(乌尔里克·冯·胡贝尔)",
     "rarity": 6,
     "reload": [
@@ -8126,8 +7834,6 @@
       ]
     ],
     "id": 40504,
-    "img": "/img/squareicon/tulingen.png",
-    "match": "图林根|特鲁德|tulingen|telude",
     "name": "图林根(特鲁德)",
     "rarity": 4,
     "reload": [
@@ -8181,8 +7887,6 @@
       ]
     ],
     "id": 40505,
-    "img": "/img/squareicon/bisimaiz.png",
-    "match": "俾斯麦zwei|奥德莉亚zwei|bisimaizwei|aodeliyazwei",
     "name": "俾斯麦Zwei(奥德莉亚Zwei)",
     "rarity": 6,
     "reload": [
@@ -8248,8 +7952,6 @@
       ]
     ],
     "id": 40506,
-    "img": "/img/squareicon/feiteliedadi_younv.png",
-    "match": "小腓特烈|小腓德雷卡|xiaofeitelie|xiaofeideleika",
     "name": "小腓特烈(小腓德雷卡)",
     "rarity": 4,
     "reload": [
@@ -8303,8 +8005,6 @@
       ]
     ],
     "id": 40601,
-    "img": "/img/squareicon/weixi.png",
-    "match": "威悉|威尔玛|weixi|weierma",
     "name": "威悉(威尔玛)",
     "rarity": 4,
     "reload": [
@@ -8358,8 +8058,6 @@
       ]
     ],
     "id": 40602,
-    "img": "/img/squareicon/yibei.png",
-    "match": "易北|埃尔斯贝特|yibei|aiersibeite",
     "name": "易北(埃尔斯贝特)",
     "rarity": 4,
     "reload": [
@@ -8413,8 +8111,6 @@
       ]
     ],
     "id": 40603,
-    "img": "/img/squareicon/yade.png",
-    "match": "亚德|阿黛尔|yade|adaier",
     "name": "亚德(阿黛尔)",
     "rarity": 4,
     "reload": [
@@ -8467,8 +8163,6 @@
       ]
     ],
     "id": 40701,
-    "img": "/img/squareicon/qibolin.png",
-    "match": "齐柏林伯爵|海拉伯爵|qibolinbojue|hailabojue",
     "name": "齐柏林伯爵(海拉伯爵)",
     "rarity": 5,
     "reload": [
@@ -8521,8 +8215,6 @@
       ]
     ],
     "id": 40702,
-    "img": "/img/squareicon/qibolin_younv.png",
-    "match": "小齐柏林|小海拉|xiaoqibolin|xiaohaila",
     "name": "小齐柏林(小海拉)",
     "rarity": 4,
     "reload": [
@@ -8574,8 +8266,6 @@
       ]
     ],
     "id": 40703,
-    "img": "/img/squareicon/shitelasai.png",
-    "match": "彼得 史特拉塞|佩特菈 斯坦贝瑟|bide shitelasai|peitela sitanbeise",
     "name": "彼得·史特拉塞(佩特菈·斯坦贝瑟)",
     "rarity": 5,
     "reload": [
@@ -8636,8 +8326,6 @@
       ]
     ],
     "id": 40704,
-    "img": "/img/squareicon/fulici.png",
-    "match": "弗里茨 鲁梅|菲莉西娅 鲁梅|fulici lumei|feilixiya lumei",
     "name": "弗里茨·鲁梅(菲莉西娅·鲁梅)",
     "rarity": 6,
     "reload": [
@@ -8715,8 +8403,6 @@
       ]
     ],
     "id": 49902,
-    "img": "/img/squareicon/feiteliedadi.png",
-    "match": "腓特烈大帝|腓德雷卡大帝|feiteliedadi|feideleikadadi",
     "name": "腓特烈大帝(腓德雷卡大帝)",
     "rarity": 6,
     "reload": [
@@ -8781,8 +8467,6 @@
       ]
     ],
     "id": 49904,
-    "img": "/img/squareicon/aoding.png",
-    "match": "奥丁|沃登|aoding|wodeng",
     "name": "奥丁(沃登)",
     "rarity": 5,
     "reload": [
@@ -8846,8 +8530,6 @@
       ]
     ],
     "id": 49906,
-    "img": "/img/squareicon/aogusite.png",
-    "match": "奥古斯特 冯 帕塞瓦尔|奥斯特雷德 冯 帕赫贝尔|aogusite feng pasaiwaer|aositeleide feng pahebeier",
     "name": "奥古斯特·冯·帕塞瓦尔(奥斯特雷德·冯·帕赫贝尔)",
     "rarity": 5,
     "reload": [
@@ -8913,8 +8595,6 @@
       ]
     ],
     "id": 49907,
-    "img": "/img/squareicon/lupuleixite.png",
-    "match": "鲁普雷希特亲王|蕾贝卡亲王|lupuleixiteqinwang|leibeikaqinwang",
     "name": "鲁普雷希特亲王(蕾贝卡亲王)",
     "rarity": 5,
     "reload": [
@@ -8974,8 +8654,6 @@
       ]
     ],
     "id": 49910,
-    "img": "/img/squareicon/meikelunbao.png",
-    "match": "梅克伦堡|梅克琳达|meikelunbao|meikelinda",
     "name": "梅克伦堡(梅克琳达)",
     "rarity": 6,
     "reload": [
@@ -9040,8 +8718,6 @@
       ]
     ],
     "id": 50401,
-    "img": "/img/squareicon/huanchang.png",
-    "match": "寰昌|huanchang",
     "name": "寰昌",
     "rarity": 5,
     "reload": [
@@ -9100,8 +8776,6 @@
       ]
     ],
     "id": 50601,
-    "img": "/img/squareicon/zhenhai.png",
-    "match": "镇海 改|zhenhai gai",
     "name": "镇海.改",
     "rarity": 4,
     "reload": [
@@ -9165,8 +8839,6 @@
       ]
     ],
     "id": 50602,
-    "img": "/img/squareicon/huajia.png",
-    "match": "华甲 改|huajia gai",
     "name": "华甲.改",
     "rarity": 4,
     "reload": [
@@ -9226,8 +8898,6 @@
       ]
     ],
     "id": 60501,
-    "img": "/img/squareicon/weineituo.png",
-    "match": "维托里奥 维内托|weituoliao weineituo",
     "name": "维托里奥·维内托",
     "rarity": 5,
     "reload": [
@@ -9287,8 +8957,6 @@
       ]
     ],
     "id": 60502,
-    "img": "/img/squareicon/lituoliao.png",
-    "match": "利托里奥|lituoliao",
     "name": "利托里奥",
     "rarity": 5,
     "reload": [
@@ -9342,8 +9010,6 @@
       ]
     ],
     "id": 60503,
-    "img": "/img/squareicon/luoma.png",
-    "match": "罗马|luoma",
     "name": "罗马",
     "rarity": 5,
     "reload": [
@@ -9402,8 +9068,6 @@
       ]
     ],
     "id": 60505,
-    "img": "/img/squareicon/jiafuerbojue.png",
-    "match": "加富尔伯爵|jiafuerbojue",
     "name": "加富尔伯爵",
     "rarity": 3,
     "reload": [
@@ -9450,8 +9114,6 @@
       ]
     ],
     "id": 60506,
-    "img": "/img/squareicon/kaisa.png",
-    "match": "朱利奥 凯撒|zhuliao kaisa",
     "name": "朱利奥·凯撒",
     "rarity": 4,
     "reload": [
@@ -9505,8 +9167,6 @@
       ]
     ],
     "id": 60507,
-    "img": "/img/squareicon/andelieyaduoliya.png",
-    "match": "安德烈亚 多利亚|andelieya duoliya",
     "name": "安德烈亚·多利亚",
     "rarity": 4,
     "reload": [
@@ -9560,8 +9220,6 @@
       ]
     ],
     "id": 60508,
-    "img": "/img/squareicon/lafeier.png",
-    "match": "拉斐尔|lafeier",
     "name": "拉斐尔",
     "rarity": 6,
     "reload": [
@@ -9621,8 +9279,6 @@
       ]
     ],
     "id": 60509,
-    "img": "/img/squareicon/fulangxisike.png",
-    "match": "弗朗西斯科 卡拉乔洛|fulangxisike kalaqiaoluo",
     "name": "弗朗西斯科·卡拉乔洛",
     "rarity": 5,
     "reload": [
@@ -9675,8 +9331,6 @@
       ]
     ],
     "id": 60701,
-    "img": "/img/squareicon/tianying.png",
-    "match": "天鹰|tianying",
     "name": "天鹰",
     "rarity": 5,
     "reload": [
@@ -9735,8 +9389,6 @@
       ]
     ],
     "id": 60702,
-    "img": "/img/squareicon/diguo.png",
-    "match": "帝国|diguo",
     "name": "帝国",
     "rarity": 5,
     "reload": [
@@ -9790,8 +9442,6 @@
       ]
     ],
     "id": 69901,
-    "img": "/img/squareicon/makeboluo.png",
-    "match": "马可波罗|makeboluo",
     "name": "马可波罗",
     "rarity": 5,
     "reload": [
@@ -9857,8 +9507,6 @@
       ]
     ],
     "id": 70501,
-    "img": "/img/squareicon/gangute.png",
-    "match": "甘古特|gangute",
     "name": "甘古特",
     "rarity": 4,
     "reload": [
@@ -9912,8 +9560,6 @@
       ]
     ],
     "id": 70502,
-    "img": "/img/squareicon/suweiaitongmeng.png",
-    "match": "苏维埃同盟|苏维埃萨尤斯|suweiaitongmeng|suweiaisayousi",
     "name": "苏维埃同盟(苏维埃萨尤斯)",
     "rarity": 6,
     "reload": [
@@ -9973,8 +9619,6 @@
       ]
     ],
     "id": 70504,
-    "img": "/img/squareicon/suweiaibeilaluosi.png",
-    "match": "苏维埃贝拉罗斯|suweiaibeilaluosi",
     "name": "苏维埃贝拉罗斯",
     "rarity": 5,
     "reload": [
@@ -10028,8 +9672,6 @@
       ]
     ],
     "id": 70505,
-    "img": "/img/squareicon/suweiailuoxiya.png",
-    "match": "苏维埃罗西亚|suweiailuoxiya",
     "name": "苏维埃罗西亚",
     "rarity": 5,
     "reload": [
@@ -10083,8 +9725,6 @@
       ]
     ],
     "id": 70506,
-    "img": "/img/squareicon/aerhangeersike.png",
-    "match": "阿尔汉格尔斯克|aerhangeersike",
     "name": "阿尔汉格尔斯克",
     "rarity": 4,
     "reload": [
@@ -10138,8 +9778,6 @@
       ]
     ],
     "id": 70507,
-    "img": "/img/squareicon/saiwasituoboer.png",
-    "match": "塞瓦斯托波尔|saiwasituoboer",
     "name": "塞瓦斯托波尔",
     "rarity": 4,
     "reload": [
@@ -10193,8 +9831,6 @@
       ]
     ],
     "id": 70508,
-    "img": "/img/squareicon/boertawa.png",
-    "match": "波尔塔瓦|boertawa",
     "name": "波尔塔瓦",
     "rarity": 4,
     "reload": [
@@ -10248,8 +9884,6 @@
       ]
     ],
     "id": 70509,
-    "img": "/img/squareicon/kashan.png",
-    "match": "喀山|kashan",
     "name": "喀山",
     "rarity": 5,
     "reload": [
@@ -10301,8 +9935,6 @@
       ]
     ],
     "id": 70701,
-    "img": "/img/squareicon/fuerjia.png",
-    "match": "伏尔加|fuerjia",
     "name": "伏尔加",
     "rarity": 5,
     "reload": [
@@ -10360,8 +9992,6 @@
       ]
     ],
     "id": 79901,
-    "img": "/img/squareicon/qikaluofu.png",
-    "match": "契卡洛夫|qikaluofu",
     "name": "契卡洛夫",
     "rarity": 5,
     "reload": [
@@ -10421,8 +10051,6 @@
       ]
     ],
     "id": 79902,
-    "img": "/img/squareicon/naximofu.png",
-    "match": "纳希莫夫海军上将|naximofuhaijunshangjiang",
     "name": "纳希莫夫海军上将",
     "rarity": 6,
     "reload": [
@@ -10487,8 +10115,6 @@
       ]
     ],
     "id": 80401,
-    "img": "/img/squareicon/masaina.png",
-    "match": "马塞纳|masaina",
     "name": "马塞纳",
     "rarity": 5,
     "reload": [
@@ -10542,8 +10168,6 @@
       ]
     ],
     "id": 80501,
-    "img": "/img/squareicon/lisailiu.png",
-    "match": "黎塞留|lisailiu",
     "name": "黎塞留",
     "rarity": 5,
     "reload": [
@@ -10609,8 +10233,6 @@
       ]
     ],
     "id": 80502,
-    "img": "/img/squareicon/liang.png",
-    "match": "里昂|liang",
     "name": "里昂",
     "rarity": 4,
     "reload": [
@@ -10664,8 +10286,6 @@
       ]
     ],
     "id": 80503,
-    "img": "/img/squareicon/aersasi.png",
-    "match": "阿尔萨斯|aersasi",
     "name": "阿尔萨斯",
     "rarity": 6,
     "reload": [
@@ -10725,8 +10345,6 @@
       ]
     ],
     "id": 80601,
-    "img": "/img/squareicon/beilaosenlin.png",
-    "match": "贝劳森林|beilaosenlin",
     "name": "贝劳森林",
     "rarity": 5,
     "reload": [
@@ -10779,8 +10397,6 @@
       ]
     ],
     "id": 80701,
-    "img": "/img/squareicon/beiyaen.png",
-    "match": "贝亚恩|beiyaen",
     "name": "贝亚恩",
     "rarity": 4,
     "reload": [
@@ -10832,8 +10448,6 @@
       ]
     ],
     "id": 80702,
-    "img": "/img/squareicon/banerwei.png",
-    "match": "伴尔维|banerwei",
     "name": "伴尔维",
     "rarity": 5,
     "reload": [
@@ -10887,8 +10501,6 @@
       ]
     ],
     "id": 89902,
-    "img": "/img/squareicon/xiangbin.png",
-    "match": "香槟|xiangbin",
     "name": "香槟",
     "rarity": 5,
     "reload": [
@@ -10947,8 +10559,6 @@
       ]
     ],
     "id": 90401,
-    "img": "/img/squareicon/dunkeerke.png",
-    "match": "敦刻尔克|dunkeerke",
     "name": "敦刻尔克",
     "rarity": 4,
     "reload": [
@@ -10995,8 +10605,6 @@
       ]
     ],
     "id": 90402,
-    "img": "/img/squareicon/sitelasibao.png",
-    "match": "斯特拉斯堡|sitelasibao",
     "name": "斯特拉斯堡",
     "rarity": 5,
     "reload": [
@@ -11050,8 +10658,6 @@
       ]
     ],
     "id": 90501,
-    "img": "/img/squareicon/rangbaer.png",
-    "match": "让 巴尔|简 布罗伊|rang baer|jian buluoyi",
     "name": "让·巴尔(简·布罗伊)",
     "rarity": 5,
     "reload": [
@@ -11105,8 +10711,6 @@
       ]
     ],
     "id": 90502,
-    "img": "/img/squareicon/kelaimengsuo.png",
-    "match": "克莱蒙梭|kelaimengsuo",
     "name": "克莱蒙梭",
     "rarity": 5,
     "reload": [
@@ -11166,8 +10770,6 @@
       ]
     ],
     "id": 90503,
-    "img": "/img/squareicon/jiasikenie_idol.png",
-    "match": "加斯科涅 μ兵装|jiasikenie miubingzhuang",
     "name": "加斯科涅(μ兵装)",
     "rarity": 5,
     "reload": [
@@ -11219,8 +10821,6 @@
       ]
     ],
     "id": 90701,
-    "img": "/img/squareicon/xiafei.png",
-    "match": "霞飞|xiafei",
     "name": "霞飞",
     "rarity": 5,
     "reload": [
@@ -11274,8 +10874,6 @@
       ]
     ],
     "id": 99901,
-    "img": "/img/squareicon/jiasikenie.png",
-    "match": "加斯科涅|jiasikenie",
     "name": "加斯科涅",
     "rarity": 5,
     "reload": [
@@ -11335,8 +10933,6 @@
       ]
     ],
     "id": 99902,
-    "img": "/img/squareicon/fulandeer.png",
-    "match": "弗兰德尔|fulandeer",
     "name": "弗兰德尔",
     "rarity": 5,
     "reload": [
@@ -11396,8 +10992,6 @@
       ]
     ],
     "id": 970401,
-    "img": "/img/squareicon/genaisennao_alter.png",
-    "match": "格奈森瑙 meta|奥古斯塔 meta|genaisennao meta|aogusita meta",
     "name": "格奈森瑙(奥古斯塔)·META",
     "rarity": 5,
     "reload": [
@@ -11444,8 +11038,6 @@
       ]
     ],
     "id": 970402,
-    "img": "/img/squareicon/shaenhuosite_alter.png",
-    "match": "沙恩霍斯特 meta|格尔林德 meta|shaenhuosite meta|geerlinde meta",
     "name": "沙恩霍斯特(格尔林德)·META",
     "rarity": 5,
     "reload": [
@@ -11492,8 +11084,6 @@
       ]
     ],
     "id": 970403,
-    "img": "/img/squareicon/fanji_alter.png",
-    "match": "反击 meta|fanji meta",
     "name": "反击·META",
     "rarity": 5,
     "reload": [
@@ -11540,8 +11130,6 @@
       ]
     ],
     "id": 970404,
-    "img": "/img/squareicon/shengwang_alter.png",
-    "match": "声望 meta|shengwang meta",
     "name": "声望·META",
     "rarity": 5,
     "reload": [
@@ -11589,8 +11177,6 @@
       ]
     ],
     "id": 970405,
-    "img": "/img/squareicon/birui_alter.png",
-    "match": "比叡 meta|鲟 meta|birui meta|xun meta",
     "name": "比叡(鲟)·META",
     "rarity": 5,
     "reload": [
@@ -11637,8 +11223,6 @@
       ]
     ],
     "id": 970406,
-    "img": "/img/squareicon/dunkeerke_alter.png",
-    "match": "敦刻尔克 meta|dunkeerke meta",
     "name": "敦刻尔克·META",
     "rarity": 4,
     "reload": [
@@ -11686,8 +11270,6 @@
       ]
     ],
     "id": 970501,
-    "img": "/img/squareicon/fusang_alter.png",
-    "match": "扶桑 meta|魟 meta|fusang meta|hong meta",
     "name": "扶桑(魟)·META",
     "rarity": 4,
     "reload": [
@@ -11735,8 +11317,6 @@
       ]
     ],
     "id": 970502,
-    "img": "/img/squareicon/shancheng_alter.png",
-    "match": "山城 meta|鲼 meta|shancheng meta|fen meta",
     "name": "山城(鲼)·META",
     "rarity": 4,
     "reload": [
@@ -11783,8 +11363,6 @@
       ]
     ],
     "id": 970503,
-    "img": "/img/squareicon/yalisangna_alter.png",
-    "match": "亚利桑那 meta|yalisangna meta",
     "name": "亚利桑那·META",
     "rarity": 5,
     "reload": [
@@ -11832,8 +11410,6 @@
       ]
     ],
     "id": 970504,
-    "img": "/img/squareicon/yilishabai_alter.png",
-    "match": "伊丽莎白女王 meta|yilishabainvwang meta",
     "name": "伊丽莎白女王·META",
     "rarity": 5,
     "reload": [
@@ -11881,8 +11457,6 @@
       ]
     ],
     "id": 970505,
-    "img": "/img/squareicon/luodeni_alter.png",
-    "match": "罗德尼 meta|luodeni meta",
     "name": "罗德尼·META",
     "rarity": 5,
     "reload": [
@@ -11930,8 +11504,6 @@
       ]
     ],
     "id": 970506,
-    "img": "/img/squareicon/changmen_alter.png",
-    "match": "长门 meta|鲨 meta|changmen meta|sha meta",
     "name": "长门(鲨)·META",
     "rarity": 5,
     "reload": [
@@ -11978,8 +11550,6 @@
       ]
     ],
     "id": 970507,
-    "img": "/img/squareicon/kaisa_alter.png",
-    "match": "朱利奥 凯撒 meta|zhuliao kaisa meta",
     "name": "朱利奥·凯撒·META",
     "rarity": 4,
     "reload": [
@@ -12027,8 +11597,6 @@
       ]
     ],
     "id": 970508,
-    "img": "/img/squareicon/andelieyaduoliya_alter.png",
-    "match": "安德烈亚 多利亚 meta|andelieya duoliya meta",
     "name": "安德烈亚·多利亚·META",
     "rarity": 5,
     "reload": [
@@ -12075,8 +11643,6 @@
       ]
     ],
     "id": 970509,
-    "img": "/img/squareicon/neihuada_alter.png",
-    "match": "内华达 meta|neihuada meta",
     "name": "内华达·META",
     "rarity": 4,
     "reload": [
@@ -12124,8 +11690,6 @@
       ]
     ],
     "id": 970510,
-    "img": "/img/squareicon/gangute_alter.png",
-    "match": "甘古特 meta|gangute meta",
     "name": "甘古特·META",
     "rarity": 5,
     "reload": [
@@ -12173,8 +11737,6 @@
       ]
     ],
     "id": 970601,
-    "img": "/img/squareicon/feiying_alter.png",
-    "match": "飞鹰 meta|鸱 meta|feiying meta|chi meta",
     "name": "飞鹰(鸱)·META",
     "rarity": 4,
     "reload": [
@@ -12222,8 +11784,6 @@
       ]
     ],
     "id": 970602,
-    "img": "/img/squareicon/sunying_alter.png",
-    "match": "隼鹰 meta|鸢 meta|sunying meta|yuan meta",
     "name": "隼鹰(鸢)·META",
     "rarity": 4,
     "reload": [
@@ -12271,8 +11831,6 @@
       ]
     ],
     "id": 970603,
-    "img": "/img/squareicon/pulinsidun_alter.png",
-    "match": "普林斯顿 meta|pulinsidun meta",
     "name": "普林斯顿·META",
     "rarity": 4,
     "reload": [
@@ -12320,8 +11878,6 @@
       ]
     ],
     "id": 970604,
-    "img": "/img/squareicon/fengxiang_alter.png",
-    "match": "凤翔 meta|凤 meta|fengxiang meta|feng meta",
     "name": "凤翔(凤)·META",
     "rarity": 4,
     "reload": [
@@ -12367,8 +11923,6 @@
       ]
     ],
     "id": 970701,
-    "img": "/img/squareicon/feilong_alter.png",
-    "match": "飞龙 meta|龙 meta|feilong meta|long meta",
     "name": "飞龙(龙)·META",
     "rarity": 5,
     "reload": [
@@ -12414,8 +11968,6 @@
       ]
     ],
     "id": 970702,
-    "img": "/img/squareicon/huangjiafangzhou_alter.png",
-    "match": "皇家方舟 meta|huangjiafangzhou meta",
     "name": "皇家方舟·META",
     "rarity": 5,
     "reload": [
@@ -12461,8 +12013,6 @@
       ]
     ],
     "id": 970703,
-    "img": "/img/squareicon/canglong_alter.png",
-    "match": "苍龙 meta|蛟 meta|canglong meta|jiao meta",
     "name": "苍龙(蛟)·META",
     "rarity": 5,
     "reload": [
@@ -12509,8 +12059,6 @@
       ]
     ],
     "id": 970704,
-    "img": "/img/squareicon/beiyaen_alter.png",
-    "match": "贝亚恩 meta|beiyaen meta",
     "name": "贝亚恩·META",
     "rarity": 5,
     "reload": [
@@ -12556,8 +12104,6 @@
       ]
     ],
     "id": 970705,
-    "img": "/img/squareicon/dafeng_alter.png",
-    "match": "大凤 meta|鹩 meta|dafeng meta|liao meta",
     "name": "大凤(鹩)·META",
     "rarity": 5,
     "reload": [
@@ -12603,8 +12149,6 @@
       ]
     ],
     "id": 970706,
-    "img": "/img/squareicon/dahuangfeng_alter.png",
-    "match": "大黄蜂 meta|daihuangfeng meta",
     "name": "大黄蜂·META",
     "rarity": 5,
     "reload": [
@@ -12650,8 +12194,6 @@
       ]
     ],
     "id": 970707,
-    "img": "/img/squareicon/guangrong_alter.png",
-    "match": "光荣 meta|guangrong meta",
     "name": "光荣·META",
     "rarity": 5,
     "reload": [
@@ -12697,8 +12239,6 @@
       ]
     ],
     "id": 970708,
-    "img": "/img/squareicon/yuekecheng_alter.png",
-    "match": "约克城 meta|yuekecheng meta",
     "name": "约克城·META",
     "rarity": 5,
     "reload": [
@@ -12744,8 +12284,6 @@
       ]
     ],
     "id": 1010004,
-    "img": "/img/squareicon/HDN401.png",
-    "match": "贝露|beilu",
     "name": "贝露",
     "rarity": 4,
     "reload": [
@@ -12791,8 +12329,6 @@
       ]
     ],
     "id": 1010008,
-    "img": "/img/squareicon/HDN402_1.png",
-    "match": "翡绿之心|feilvzhixin",
     "name": "翡绿之心",
     "rarity": 5,
     "reload": [
@@ -12846,8 +12382,6 @@
       ]
     ],
     "id": 1030004,
-    "img": "/img/squareicon/wululu.png",
-    "match": "乌璐露|wululu",
     "name": "乌璐露",
     "rarity": 4,
     "reload": [
@@ -12901,8 +12435,6 @@
       ]
     ],
     "id": 1030005,
-    "img": "/img/squareicon/salana.png",
-    "match": "萨拉娜|salana",
     "name": "萨拉娜",
     "rarity": 4,
     "reload": [
@@ -12954,8 +12486,6 @@
       ]
     ],
     "id": 1030006,
-    "img": "/img/squareicon/fumilulu.png",
-    "match": "芙米露露|fumilulu",
     "name": "芙米露露",
     "rarity": 4,
     "reload": [
@@ -13007,8 +12537,6 @@
       ]
     ],
     "id": 1040003,
-    "img": "/img/squareicon/aijiangCV.png",
-    "match": "绊爱 anniversary|banai anniversary",
     "name": "绊爱·Anniversary",
     "rarity": 5,
     "reload": [
@@ -13062,8 +12590,6 @@
       ]
     ],
     "id": 1040004,
-    "img": "/img/squareicon/aijiangBB.png",
-    "match": "绊爱 supergamer|banai supergamer",
     "name": "绊爱·SuperGamer",
     "rarity": 5,
     "reload": [
@@ -13117,8 +12643,6 @@
       ]
     ],
     "id": 1060002,
-    "img": "/img/squareicon/suixiang_doa.png",
-    "match": "穗香|suixiang",
     "name": "穗香",
     "rarity": 5,
     "reload": [
@@ -13172,8 +12696,6 @@
       ]
     ],
     "id": 1060005,
-    "img": "/img/squareicon/zhixiao_DOA.png",
-    "match": "凪咲|zhixiao",
     "name": "凪咲",
     "rarity": 4,
     "reload": [
@@ -13225,8 +12747,6 @@
       ]
     ],
     "id": 1060006,
-    "img": "/img/squareicon/nvtiangou_DOA.png",
-    "match": "女天狗|nvtiangou",
     "name": "女天狗",
     "rarity": 4,
     "reload": [
@@ -13281,8 +12801,6 @@
       ]
     ],
     "id": 1060008,
-    "img": "/img/squareicon/luna_doa.png",
-    "match": "露娜|luna",
     "name": "露娜",
     "rarity": 5,
     "reload": [
@@ -13336,8 +12854,6 @@
       ]
     ],
     "id": 1060009,
-    "img": "/img/squareicon/huan_doa.png",
-    "match": "环|huan",
     "name": "环",
     "rarity": 5,
     "reload": [
@@ -13389,8 +12905,6 @@
       ]
     ],
     "id": 1060010,
-    "img": "/img/squareicon/yilisi_DOA.png",
-    "match": "伊莉丝|yilisi",
     "name": "伊莉丝",
     "rarity": 5,
     "reload": [
@@ -13444,8 +12958,6 @@
       ]
     ],
     "id": 1060011,
-    "img": "/img/squareicon/na_DOA.png",
-    "match": "雫|na",
     "name": "雫",
     "rarity": 5,
     "reload": [
@@ -13497,8 +13009,6 @@
       ]
     ],
     "id": 1070002,
-    "img": "/img/squareicon/qianzao.png",
-    "match": "如月千早|ruyueqianzao",
     "name": "如月千早",
     "rarity": 5,
     "reload": [
@@ -13557,8 +13067,6 @@
       ]
     ],
     "id": 1070003,
-    "img": "/img/squareicon/yizhi.png",
-    "match": "水濑伊织|shuilaiyizhi",
     "name": "水濑伊织",
     "rarity": 5,
     "reload": [
@@ -13612,8 +13120,6 @@
       ]
     ],
     "id": 1080002,
-    "img": "/img/squareicon/qian.png",
-    "match": "新条茜|xintiaoqian",
     "name": "新条茜 ",
     "rarity": 5,
     "reload": [
@@ -13671,8 +13177,6 @@
       ]
     ],
     "id": 1080006,
-    "img": "/img/squareicon/qianlai.png",
-    "match": "飞鸟川千濑|feiniaochuanqianlai",
     "name": "飞鸟川千濑",
     "rarity": 5,
     "reload": [
@@ -13726,8 +13230,6 @@
       ]
     ],
     "id": 1080007,
-    "img": "/img/squareicon/he.png",
-    "match": "貉|hao",
     "name": "貉",
     "rarity": 4,
     "reload": [
@@ -13780,8 +13282,6 @@
       ]
     ],
     "id": 1080008,
-    "img": "/img/squareicon/erdaimu.png",
-    "match": "第二代|dierdai",
     "name": "第二代",
     "rarity": 5,
     "reload": [
@@ -13835,8 +13335,6 @@
       ]
     ],
     "id": 1090002,
-    "img": "/img/squareicon/keluodiya.png",
-    "match": "科洛蒂娅 巴兰茨|keluodiya balanci",
     "name": "科洛蒂娅·巴兰茨",
     "rarity": 5,
     "reload": [
@@ -13896,8 +13394,6 @@
       ]
     ],
     "id": 1090003,
-    "img": "/img/squareicon/patelixia.png",
-    "match": "帕特莉夏 阿贝尔海姆|patelixia abeierhaimu",
     "name": "帕特莉夏·阿贝尔海姆",
     "rarity": 5,
     "reload": [
@@ -13955,8 +13451,6 @@
       ]
     ],
     "id": 1090005,
-    "img": "/img/squareicon/saili.png",
-    "match": "赛莉 古劳斯|saili gulaosi",
     "name": "赛莉·古劳斯",
     "rarity": 4,
     "reload": [
@@ -14014,8 +13508,6 @@
       ]
     ],
     "id": 1100004,
-    "img": "/img/squareicon/xuequan.png",
-    "match": "雪泉|xuequan",
     "name": "雪泉",
     "rarity": 5,
     "reload": [
@@ -14069,8 +13561,6 @@
       ]
     ],
     "id": 1100005,
-    "img": "/img/squareicon/xuebugui.png",
-    "match": "雪不归|xuebugui",
     "name": "雪不归",
     "rarity": 5,
     "reload": [
@@ -14124,8 +13614,6 @@
       ]
     ],
     "id": 1100006,
-    "img": "/img/squareicon/zi_shanluan.png",
-    "match": "紫|zi",
     "name": "紫",
     "rarity": 4,
     "reload": [
@@ -14179,8 +13667,6 @@
       ]
     ],
     "id": 1110004,
-    "img": "/img/squareicon/jinseanying_tolove.png",
-    "match": "金色暗影|jinseanying",
     "name": "金色暗影",
     "rarity": 5,
     "reload": [
@@ -14233,8 +13719,6 @@
       ]
     ],
     "id": 1110005,
-    "img": "/img/squareicon/xiliansi_tolove.png",
-    "match": "西连寺春菜|xiliansichuncai",
     "name": "西连寺春菜",
     "rarity": 4,
     "reload": [
@@ -14286,8 +13770,6 @@
       ]
     ],
     "id": 1110006,
-    "img": "/img/squareicon/gushouchuan_tolove.png",
-    "match": "古手川唯|gushouchuanwei",
     "name": "古手川唯",
     "rarity": 4,
     "reload": [
@@ -14341,8 +13823,6 @@
       ]
     ],
     "id": 1120001,
-    "img": "/img/squareicon/heiyansheshou.png",
-    "match": "black★rock shooter|black★rock shooter",
     "name": "BLACK★ROCK SHOOTER",
     "rarity": 5,
     "reload": [
@@ -14394,8 +13874,6 @@
       ]
     ],
     "id": 1120002,
-    "img": "/img/squareicon/siwangzhuzai.png",
-    "match": "dead master|dead master",
     "name": "DEAD MASTER",
     "rarity": 5,
     "reload": [
@@ -14450,8 +13928,6 @@
       ]
     ],
     "id": 1130001,
-    "img": "/img/squareicon/youmiya.png",
-    "match": "优米雅 利斯菲尔德|youmiya lisifeierde",
     "name": "优米雅·利斯菲尔德",
     "rarity": 5,
     "reload": [
@@ -14511,8 +13987,6 @@
       ]
     ],
     "id": 1130003,
-    "img": "/img/squareicon/nina.png",
-    "match": "妮娜 弗里德|nina fulide",
     "name": "妮娜·弗里德",
     "rarity": 5,
     "reload": [
@@ -14564,8 +14038,6 @@
       ]
     ],
     "id": 1150002,
-    "img": "/img/squareicon/zhezhi.png",
-    "match": "鸢一折纸|yuanyizhezhi",
     "name": "鸢一折纸",
     "rarity": 5,
     "reload": [
@@ -14625,8 +14097,6 @@
       ]
     ],
     "id": 1150003,
-    "img": "/img/squareicon/qinli.png",
-    "match": "五河琴里|wuheqinli",
     "name": "五河琴里",
     "rarity": 5,
     "reload": [
@@ -14680,8 +14150,6 @@
       ]
     ],
     "id": 1150004,
-    "img": "/img/squareicon/sisinai.png",
-    "match": "四糸乃|siminai",
     "name": "四糸乃",
     "rarity": 5,
     "reload": [
