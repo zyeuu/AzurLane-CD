@@ -26,12 +26,25 @@ console.log('shipInfo', shipInfo);
 const shipTemplate = store.state.shipTemplates[shipInfo.templateId];
 console.log('shipTemplate', shipTemplate);
 
+const slots = [0, 1, 2, 3, 4];
+const weaponTypes = new Set([
+    EquipType.artillery,
+    EquipType.fighter,
+    EquipType.torpedo_bomber,
+    EquipType.dive_bomber,
+    EquipType.reconnaissance,
+]);
+
+function isLowRarityWeapon(equip?: EquipTemplate) {
+    return !!equip && weaponTypes.has(equip.type) && equip.rarity !== 5 && equip.rarity !== 6;
+}
+
 function getOptions(idx: number) {
     let result = [];
     let allow = shipTemplate.equipSlots[idx];
     for (let equipId in store.state.equips) {
         let equip = store.state.equips[equipId];
-        if (store.state.config.ignoreCommonEquips && equip.rarity <= 3) {
+        if (isLowRarityWeapon(equip) || (store.state.config.ignoreCommonEquips && equip.rarity <= 3)) {
             continue
         }
         if (equip.ship_type_forbidden?.includes(shipTemplate.type)) {
@@ -77,14 +90,12 @@ function getOptions(idx: number) {
     return result;
 }
 
-const filteredOptions: SelectOption[][] = [];
-for (let i = 0; i < 5; ++i) {
-    filteredOptions.push(getOptions(i));
-}
-
-console.log('filteredOptions', shipTemplate.equipSlots, filteredOptions);
-
-const equipChoices: number[][] = [];
+const filteredOptions = computed(() => slots.map(getOptions));
+const equipChoices = ref<number[][]>(slots.map(() => []));
+const legacyEquips = computed(() => slots.map(idx => {
+    const id = props.ship.equips[idx];
+    return isLowRarityWeapon(store.state.equips[id]) ? id : 0;
+}));
 
 const resultInfo = ref<{ total?: number, desc?: string, updated?: boolean }>({});
 const results = ref<{ [key: string]: any }[]>([]);
@@ -117,7 +128,8 @@ function product<T>(nestArr: T[][], nullVal: T) {
 }
 
 function loadAllResults() {
-    let allResults = product(equipChoices, 0).map(getStatsForChoice);
+    const choices = equipChoices.value.map((ids, idx) => ids.length ? ids : [legacyEquips.value[idx]]);
+    let allResults = product(choices, 0).map(getStatsForChoice);
     allResults.sort((a, b) => {
         return a.realCD - b.realCD;
     })
@@ -126,19 +138,20 @@ function loadAllResults() {
 
 function updateChoices(idx: number, data: number[]) {
     console.log('updateChoices', idx, data)
-    equipChoices[idx] = data;
+    equipChoices.value[idx] = data;
 
     let cnt = 1;
     let text = []
-    for (let i = 0; i < 5; ++i) {
-        let cnti = (equipChoices[i].length || 1)
-        if (filteredOptions[i].length) {
+    for (const i of slots) {
+        let cnti = (equipChoices.value[i].length || 1)
+        if (filteredOptions.value[i].length) {
             text.push(cnti)
         }
         cnt = cnt * cnti;
     }
     console.log('总选项数量', text, cnt);
     resultInfo.value = { total: cnt, desc: text.join('*') };
+    results.value = [];
     if (cnt < 50) {
         calculateChoices();
     }
@@ -156,25 +169,21 @@ function calculateChoices() {
     console.log('CD计算结果', results.value);
 }
 
-for (let idx = 0; idx < 5; ++idx) {
-    let e = props.ship.equips[idx];
-    if (!e) {
-        equipChoices[idx] = [];
-    } else {
-        equipChoices[idx] = [e];
-    }
-}
-updateChoices(0, equipChoices[0]);
-console.log('equipChoices', equipChoices);
+watch(() => props.ship.equips, equips => {
+    equipChoices.value = slots.map(idx => {
+        const id = equips[idx];
+        return id && !legacyEquips.value[idx] ? [id] : [];
+    });
+    updateChoices(0, equipChoices.value[0]);
+}, { immediate: true });
 
 watch(() => [props.techReload, props.baseReload], () => {
     // 更新舰娘装填信息后, 清除当前列表
     results.value = [];
 })
 
-function renderLabel(option: SelectOption & { data: EquipTemplate }, selected: boolean) {
-    console.log('render', option);
-    return h('div', { 'class': 'equip rarity-' + option.data.rarity, }, { default: () => option.label })
+function renderLabel(option: SelectOption) {
+    return h(EquipInfo, { equip: Number(option.value), label: String(option.label) });
 }
 
 </script>
@@ -183,32 +192,42 @@ function renderLabel(option: SelectOption & { data: EquipTemplate }, selected: b
 <template>
     <div>
         <n-select
-            v-for="idx in [0, 1, 2, 3, 4]"
+            v-for="idx in slots"
+            :key="idx"
             multiple
             cascade
             checkable
             filterable
             default-expand-all
             check-strategy="child"
-            :default-value="equipChoices[idx]"
+            :value="equipChoices[idx]"
             @update:value="updateChoices(idx, $event)"
             :options="filteredOptions[idx]"
             max-tag-count="responsive"
+            :placeholder="legacyEquips[idx] ? '保留已装装备' : '请选择'"
             :disabled="filteredOptions[idx].length === 0"
             :render-label="renderLabel"
         />
         总选项数量: {{ resultInfo.desc }}={{ resultInfo.total }}
         <n-button type="primary" @click="calculateChoices()">计算CD</n-button>
-        <table>
-            <tbody>
-                <tr v-for="c in dispResults" @click="emit('select', c.ids)">
-                    <td v-for="equip in c.ids" :key="equip">
-                        <equip-info :equip="equip"></equip-info>
-                    </td>
-                    <td>面板CD {{ c.dispCD }}</td>
-                    <td>实际CD {{ c.realCD && c.realCD.toFixed(4) }}</td>
-                </tr>
-            </tbody>
-        </table>
+        <div class="equip-results">
+            <table>
+                <tbody>
+                    <tr v-for="c in dispResults" @click="emit('select', c.ids)">
+                        <td v-for="(equip, idx) in c.ids" :key="idx">
+                            <equip-info :equip="equip"></equip-info>
+                        </td>
+                        <td>面板CD {{ c.dispCD }}</td>
+                        <td>实际CD {{ c.realCD && c.realCD.toFixed(4) }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
 </template>
+
+<style scoped>
+.equip-results {
+    overflow-x: auto;
+}
+</style>

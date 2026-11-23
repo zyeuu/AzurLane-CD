@@ -1,6 +1,6 @@
 <template>
     <div style="padding: 20px;">
-        <n-form-item label="忽略低星装备" label-placement="left" :show-feedback="false">
+        <n-form-item label="忽略低稀有度设备" label-placement="left" :show-feedback="false">
             <n-switch v-model:value="config.ignoreCommonEquips"></n-switch>
         </n-form-item>
         <n-form-item label="公共进图延迟" label-placement="left" :show-feedback="false">

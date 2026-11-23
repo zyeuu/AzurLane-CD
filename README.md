@@ -17,6 +17,8 @@
 
 舰船头像随站点静态发布，资源位于 `vue/public/img/squareicon/`。这次补齐的头像来自碧蓝航线 Wiki。
 
+装备图标按客户端 `icon` 编号存放在 `vue/public/img/equips/`，随站点静态发布。[装备图标来源](https://github.com/Fernando2603/AzurLane/blob/main/equipment_icon.json)
+
 ## 本地开发与构建
 
 使用 Node.js 24；`vue/.nvmrc` 记录了与 CI 一致的版本。以下命令通过 npx 使用固定的 Yarn 1.22.22，无需预先全局安装 Yarn。
@@ -61,7 +63,7 @@ npx --yes yarn@1.22.22 build
 - [ ] 排序方式优化: 支持按Buff覆盖率排序
 - [x] 界面优化: 移动端适配
 - [x] 界面优化: 舰船以名称和ID展示，支持按ID或名称搜索
-- [ ] 界面优化: 显示装备图标
+- [x] 界面优化: 显示装备图标
 
 ## 开源协议
 

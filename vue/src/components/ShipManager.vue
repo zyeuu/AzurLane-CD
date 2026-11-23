@@ -22,7 +22,16 @@
             <n-form-item label-placement="left" :show-feedback="false">
                 <n-input ref="searchRef" v-model:value="pattern" placeholder="搜索舰船 ID / 名称" clearable />
             </n-form-item>
-            <br />
+            <div class="rarity-filters" role="group" aria-label="舰船稀有度">
+                <n-button
+                    v-for="filter in rarityFilters"
+                    :key="filter.value"
+                    size="small"
+                    :type="rarity === filter.value ? 'primary' : 'default'"
+                    :aria-pressed="rarity === filter.value"
+                    @click="rarity = filter.value"
+                >{{ filter.label }}</n-button>
+            </div>
             <n-grid x-gap="8" y-gap="8" cols="2 400:3 600:4 800:5 1000:6 1200:12">
                 <n-grid-item
                     v-for="option in options"
@@ -47,6 +56,12 @@
 .n-input-number {
     min-width: 50px;
 }
+.rarity-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 12px 0;
+}
 .ship-option {
     padding: 8px;
     border: 1px solid #e0e0e6;
@@ -70,10 +85,20 @@ import store from '../utils/store'
 const showModal = ref(false);
 const ships = computed(() => store.state.ships);
 const pattern = ref<string>('');
+const rarity = ref(0);
+const rarityFilters = [
+    { value: 0, label: '全部' },
+    { value: 6, label: '彩色' },
+    { value: 5, label: '金色' },
+    { value: 4, label: '紫色' },
+    { value: 3, label: '蓝色' },
+    { value: 2, label: '白色' },
+];
 
 const options = computed(() => {
     const query = pattern.value.trim().toLowerCase();
     return Object.values(store.state.shipTemplates)
+        .filter(ship => rarity.value === 0 || ship.rarity === rarity.value)
         .filter(ship => !query || String(ship.id).includes(query) || ship.name.toLowerCase().includes(query))
         .sort((a, b) => a.id - b.id);
 })

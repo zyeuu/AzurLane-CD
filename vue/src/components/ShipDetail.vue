@@ -135,7 +135,7 @@ const selectorKey = computed(() => {
             </div>
             <div>实际CD: {{ cdStats.realCD && cdStats.realCD.toFixed(4) }}</div>
             <div @click="showModal = true" style="cursor: pointer;">
-                <span v-for="equip, idx in ship.equips" :key="equip">
+                <span v-for="equip, idx in ship.equips" :key="idx">
                     <equip-info :equip="equip" :cnt="shipTemplate && shipTemplate.equipCnt[idx]"></equip-info>
                 </span>
             </div>
