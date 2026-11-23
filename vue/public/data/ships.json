@@ -26,6 +26,7 @@
       ]
     ],
     "id": 10401,
+    "img": "/img/squareicon/xingzuo.png",
     "name": "星座",
     "rarity": 5,
     "reload": [
@@ -78,6 +79,7 @@
       ]
     ],
     "id": 10501,
+    "img": "/img/squareicon/neihuada.png",
     "name": "内华达.改",
     "rarity": 2,
     "reload": [
@@ -130,6 +132,7 @@
       ]
     ],
     "id": 10502,
+    "img": "/img/squareicon/ekelahema.png",
     "name": "俄克拉荷马.改",
     "rarity": 2,
     "reload": [
@@ -182,6 +185,7 @@
       ]
     ],
     "id": 10503,
+    "img": "/img/squareicon/binxifaniya.png",
     "name": "宾夕法尼亚",
     "rarity": 3,
     "reload": [
@@ -228,6 +232,7 @@
       ]
     ],
     "id": 10504,
+    "img": "/img/squareicon/yalisangna.png",
     "name": "亚利桑那",
     "rarity": 4,
     "reload": [
@@ -274,6 +279,7 @@
       ]
     ],
     "id": 10507,
+    "img": "/img/squareicon/tiannaxi.png",
     "name": "田纳西",
     "rarity": 3,
     "reload": [
@@ -320,6 +326,7 @@
       ]
     ],
     "id": 10508,
+    "img": "/img/squareicon/jialifuniya.png",
     "name": "加利福尼亚",
     "rarity": 3,
     "reload": [
@@ -366,6 +373,7 @@
       ]
     ],
     "id": 10509,
+    "img": "/img/squareicon/keluoladuo.png",
     "name": "科罗拉多.改",
     "rarity": 4,
     "reload": [
@@ -418,6 +426,7 @@
       ]
     ],
     "id": 10510,
+    "img": "/img/squareicon/malilan.png",
     "name": "马里兰.改",
     "rarity": 4,
     "reload": [
@@ -476,6 +485,7 @@
       ]
     ],
     "id": 10511,
+    "img": "/img/squareicon/xifujiniya.png",
     "name": "西弗吉尼亚.改",
     "rarity": 4,
     "reload": [
@@ -528,6 +538,7 @@
       ]
     ],
     "id": 10512,
+    "img": "/img/squareicon/beikaluolaina.png",
     "name": "北卡罗来纳",
     "rarity": 5,
     "reload": [
@@ -580,6 +591,7 @@
       ]
     ],
     "id": 10513,
+    "img": "/img/squareicon/huashengdun.png",
     "name": "华盛顿",
     "rarity": 5,
     "reload": [
@@ -632,6 +644,7 @@
       ]
     ],
     "id": 10514,
+    "img": "/img/squareicon/nandaketa.png",
     "name": "南达科他",
     "rarity": 5,
     "reload": [
@@ -684,6 +697,7 @@
       ]
     ],
     "id": 10515,
+    "img": "/img/squareicon/yindianna.png",
     "name": "印第安纳",
     "rarity": 5,
     "reload": [
@@ -736,6 +750,7 @@
       ]
     ],
     "id": 10517,
+    "img": "/img/squareicon/xinzexi.png",
     "name": "新泽西(花园)",
     "rarity": 6,
     "reload": [
@@ -794,6 +809,7 @@
       ]
     ],
     "id": 10519,
+    "img": "/img/squareicon/masazhusai.png",
     "name": "马萨诸塞",
     "rarity": 5,
     "reload": [
@@ -846,6 +862,7 @@
       ]
     ],
     "id": 10520,
+    "img": "/img/squareicon/alabama.png",
     "name": "阿拉巴马",
     "rarity": 5,
     "reload": [
@@ -899,6 +916,7 @@
       ]
     ],
     "id": 10601,
+    "img": "/img/squareicon/changdao.png",
     "name": "长岛.改",
     "rarity": 3,
     "reload": [
@@ -952,6 +970,7 @@
       ]
     ],
     "id": 10602,
+    "img": "/img/squareicon/boge.png",
     "name": "博格.改",
     "rarity": 2,
     "reload": [
@@ -1005,6 +1024,7 @@
       ]
     ],
     "id": 10655,
+    "img": "/img/squareicon/kasabulanka.png",
     "name": "卡萨布兰卡",
     "rarity": 3,
     "reload": [
@@ -1058,6 +1078,7 @@
       ]
     ],
     "id": 10701,
+    "img": "/img/squareicon/lanli.png",
     "name": "兰利.改",
     "rarity": 2,
     "reload": [
@@ -1109,6 +1130,7 @@
       ]
     ],
     "id": 10702,
+    "img": "/img/squareicon/liekexingdun.png",
     "name": "列克星敦",
     "rarity": 4,
     "reload": [
@@ -1160,6 +1182,7 @@
       ]
     ],
     "id": 10703,
+    "img": "/img/squareicon/salatuojia.png",
     "name": "萨拉托加.改",
     "rarity": 4,
     "reload": [
@@ -1219,6 +1242,7 @@
       ]
     ],
     "id": 10704,
+    "img": "/img/squareicon/tujizhe.png",
     "name": "突击者.改",
     "rarity": 2,
     "reload": [
@@ -1270,6 +1294,7 @@
       ]
     ],
     "id": 10705,
+    "img": "/img/squareicon/yuekecheng.png",
     "name": "约克城",
     "rarity": 4,
     "reload": [
@@ -1321,6 +1346,7 @@
       ]
     ],
     "id": 10706,
+    "img": "/img/squareicon/qiye.png",
     "name": "企业",
     "rarity": 5,
     "reload": [
@@ -1366,6 +1392,7 @@
       ]
     ],
     "id": 10707,
+    "img": "/img/squareicon/dahuangfeng.png",
     "name": "大黄蜂",
     "rarity": 4,
     "reload": [
@@ -1417,6 +1444,7 @@
       ]
     ],
     "id": 10708,
+    "img": "/img/squareicon/hufeng.png",
     "name": "胡蜂",
     "rarity": 3,
     "reload": [
@@ -1464,6 +1492,7 @@
       ]
     ],
     "id": 10709,
+    "img": "/img/squareicon/aisaikesi.png",
     "name": "埃塞克斯.改",
     "rarity": 5,
     "reload": [
@@ -1529,6 +1558,7 @@
       ]
     ],
     "id": 10710,
+    "img": "/img/squareicon/yuekechengII.png",
     "name": "约克城II",
     "rarity": 6,
     "reload": [
@@ -1586,6 +1616,7 @@
       ]
     ],
     "id": 10711,
+    "img": "/img/squareicon/wuwei.png",
     "name": "无畏",
     "rarity": 5,
     "reload": [
@@ -1643,6 +1674,7 @@
       ]
     ],
     "id": 10712,
+    "img": "/img/squareicon/dahuangfengII.png",
     "name": "大黄蜂II",
     "rarity": 5,
     "reload": [
@@ -1700,6 +1732,7 @@
       ]
     ],
     "id": 10713,
+    "img": "/img/squareicon/fulankelin.png",
     "name": "富兰克林",
     "rarity": 5,
     "reload": [
@@ -1751,6 +1784,7 @@
       ]
     ],
     "id": 10714,
+    "img": "/img/squareicon/tikangdeluojia.png",
     "name": "提康德罗加(卡莉永)",
     "rarity": 5,
     "reload": [
@@ -1810,6 +1844,7 @@
       ]
     ],
     "id": 10716,
+    "img": "/img/squareicon/10716.jpg",
     "name": "列克星敦II",
     "rarity": 6,
     "reload": [
@@ -1867,6 +1902,7 @@
       ]
     ],
     "id": 10717,
+    "img": "/img/squareicon/bangkeshan.png",
     "name": "邦克山",
     "rarity": 5,
     "reload": [
@@ -1888,6 +1924,58 @@
         "id": 11990,
         "name": "恪尽职守",
         "type": 1
+      }
+    ],
+    "type": 7
+  },
+  "10720": {
+    "ammo": 0,
+    "camp": 1,
+    "equipCnt": [
+      3,
+      3,
+      2
+    ],
+    "equipSlots": [
+      [
+        7
+      ],
+      [
+        9
+      ],
+      [
+        8
+      ],
+      [
+        10
+      ],
+      [
+        10
+      ]
+    ],
+    "id": 10720,
+    "img": "/img/squareicon/10720.jpg",
+    "name": "本宁顿",
+    "rarity": 5,
+    "reload": [
+      48,
+      333,
+      0,
+      36,
+      0
+    ],
+    "skills": [
+      {
+        "desc": "战斗开始时，自身航空属性提高5.0%(15.0%)，命中属性提高4.0%(10.0%)；自身舰载机击落敌方飞机时，自身航空属性提高1.5%(5.0%)，最高叠加2层，叠加至满层时，使此时队伍中所有防空属性低于自身的角色防空提高5.0%(15.0%)（防空属性提升效果持续至战斗结束）",
+        "id": 152620,
+        "name": "自由之翼",
+        "type": 3
+      },
+      {
+        "desc": "自身发动空袭时，额外触发一轮航空弹幕攻击Lv.1(Lv.10)（威力依据技能等级），若此时队伍中存在至少3个白鹰阵营角色，使在场的所有敌方单位2.5秒内缓慢减速至航速为0，1.5秒后恢复原航速；战斗开始时，若主力舰队存在其他白鹰阵营角色，自身受到航空伤害降低5.0%(15.0%)",
+        "id": 152630,
+        "name": "Vlogger`s time",
+        "type": 2
       }
     ],
     "type": 7
@@ -1920,6 +2008,7 @@
       ]
     ],
     "id": 10722,
+    "img": "/img/squareicon/duli.png",
     "name": "独立.改",
     "rarity": 4,
     "reload": [
@@ -1979,6 +2068,7 @@
       ]
     ],
     "id": 10723,
+    "img": "/img/squareicon/pulinsidun.png",
     "name": "普林斯顿",
     "rarity": 4,
     "reload": [
@@ -2032,6 +2122,7 @@
       ]
     ],
     "id": 10725,
+    "img": "/img/squareicon/kebensi.png",
     "name": "科本斯",
     "rarity": 5,
     "reload": [
@@ -2085,6 +2176,7 @@
       ]
     ],
     "id": 10727,
+    "img": "/img/squareicon/lanliII.png",
     "name": "兰利II",
     "rarity": 4,
     "reload": [
@@ -2138,6 +2230,7 @@
       ]
     ],
     "id": 10729,
+    "img": "/img/squareicon/badan.png",
     "name": "巴丹",
     "rarity": 4,
     "reload": [
@@ -2191,6 +2284,7 @@
       ]
     ],
     "id": 10730,
+    "img": "/img/squareicon/shenghaxintuo.png",
     "name": "圣哈辛托",
     "rarity": 4,
     "reload": [
@@ -2242,6 +2336,7 @@
       ]
     ],
     "id": 10738,
+    "img": "/img/squareicon/xianggelila.png",
     "name": "香格里拉",
     "rarity": 5,
     "reload": [
@@ -2293,6 +2388,7 @@
       ]
     ],
     "id": 10799,
+    "img": "/img/squareicon/qiye_younv.png",
     "name": "小企业",
     "rarity": 4,
     "reload": [
@@ -2339,6 +2435,7 @@
       ]
     ],
     "id": 19902,
+    "img": "/img/squareicon/zuozhiya.png",
     "name": "佐治亚",
     "rarity": 5,
     "reload": [
@@ -2397,6 +2494,7 @@
       ]
     ],
     "id": 19904,
+    "img": "/img/squareicon/qiershazhi.png",
     "name": "奇尔沙治",
     "rarity": 6,
     "reload": [
@@ -2461,6 +2559,7 @@
       ]
     ],
     "id": 19906,
+    "img": "/img/squareicon/kansasi.png",
     "name": "堪萨斯",
     "rarity": 5,
     "reload": [
@@ -2519,6 +2618,7 @@
       ]
     ],
     "id": 20401,
+    "img": "/img/squareicon/shengwang.png",
     "name": "声望",
     "rarity": 4,
     "reload": [
@@ -2565,6 +2665,7 @@
       ]
     ],
     "id": 20402,
+    "img": "/img/squareicon/fanji.png",
     "name": "反击",
     "rarity": 3,
     "reload": [
@@ -2611,6 +2712,7 @@
       ]
     ],
     "id": 20403,
+    "img": "/img/squareicon/hude.png",
     "name": "胡德",
     "rarity": 5,
     "reload": [
@@ -2657,6 +2759,7 @@
       ]
     ],
     "id": 20404,
+    "img": "/img/squareicon/shengwang_younv.png",
     "name": "小声望",
     "rarity": 4,
     "reload": [
@@ -2710,6 +2813,7 @@
       ]
     ],
     "id": 20501,
+    "img": "/img/squareicon/yilishabai.png",
     "name": "伊丽莎白女王",
     "rarity": 4,
     "reload": [
@@ -2758,6 +2862,7 @@
       ]
     ],
     "id": 20502,
+    "img": "/img/squareicon/yanzhan.png",
     "name": "厌战.改",
     "rarity": 5,
     "reload": [
@@ -2811,6 +2916,7 @@
       ]
     ],
     "id": 20503,
+    "img": "/img/squareicon/naerxun.png",
     "name": "纳尔逊.改",
     "rarity": 4,
     "reload": [
@@ -2864,6 +2970,7 @@
       ]
     ],
     "id": 20504,
+    "img": "/img/squareicon/luodeni.png",
     "name": "罗德尼",
     "rarity": 4,
     "reload": [
@@ -2911,6 +3018,7 @@
       ]
     ],
     "id": 20505,
+    "img": "/img/squareicon/qiaozhiwushi.png",
     "name": "英王乔治五世",
     "rarity": 5,
     "reload": [
@@ -2964,6 +3072,7 @@
       ]
     ],
     "id": 20506,
+    "img": "/img/squareicon/weiershiqinwang.png",
     "name": "威尔士亲王",
     "rarity": 5,
     "reload": [
@@ -3011,6 +3120,7 @@
       ]
     ],
     "id": 20507,
+    "img": "/img/squareicon/yuekegongjue.png",
     "name": "约克公爵",
     "rarity": 5,
     "reload": [
@@ -3087,6 +3197,7 @@
       ]
     ],
     "id": 20509,
+    "img": "/img/squareicon/hao.png",
     "name": "豪",
     "rarity": 5,
     "reload": [
@@ -3140,6 +3251,7 @@
       ]
     ],
     "id": 20510,
+    "img": "/img/squareicon/yingyong.png",
     "name": "英勇",
     "rarity": 4,
     "reload": [
@@ -3193,6 +3305,7 @@
       ]
     ],
     "id": 20511,
+    "img": "/img/squareicon/fuchou.png",
     "name": "复仇",
     "rarity": 4,
     "reload": [
@@ -3246,6 +3359,7 @@
       ]
     ],
     "id": 20513,
+    "img": "/img/squareicon/qianwei.png",
     "name": "前卫",
     "rarity": 6,
     "reload": [
@@ -3305,6 +3419,7 @@
       ]
     ],
     "id": 20514,
+    "img": "/img/squareicon/huangjiaxiangshu.png",
     "name": "皇家橡树",
     "rarity": 5,
     "reload": [
@@ -3358,6 +3473,7 @@
       ]
     ],
     "id": 20516,
+    "img": "/img/squareicon/shi.png",
     "name": "狮",
     "rarity": 6,
     "reload": [
@@ -3417,6 +3533,7 @@
       ]
     ],
     "id": 20601,
+    "img": "/img/squareicon/jingjishen.png",
     "name": "竞技神.改",
     "rarity": 2,
     "reload": [
@@ -3470,6 +3587,7 @@
       ]
     ],
     "id": 20602,
+    "img": "/img/squareicon/baiyanjuren.png",
     "name": "百眼巨人",
     "rarity": 4,
     "reload": [
@@ -3523,6 +3641,7 @@
       ]
     ],
     "id": 20603,
+    "img": "/img/squareicon/dujiaoshou.png",
     "name": "独角兽.改",
     "rarity": 4,
     "reload": [
@@ -3576,6 +3695,7 @@
       ]
     ],
     "id": 20604,
+    "img": "/img/squareicon/banrenma.png",
     "name": "半人马",
     "rarity": 5,
     "reload": [
@@ -3629,6 +3749,7 @@
       ]
     ],
     "id": 20605,
+    "img": "/img/squareicon/zhuiganzhe.png",
     "name": "追赶者",
     "rarity": 4,
     "reload": [
@@ -3682,6 +3803,7 @@
       ]
     ],
     "id": 20606,
+    "img": "/img/squareicon/yingxianzuo.png",
     "name": "英仙座",
     "rarity": 5,
     "reload": [
@@ -3742,6 +3864,7 @@
       ]
     ],
     "id": 20607,
+    "img": "/img/squareicon/aerbien.png",
     "name": "阿尔比恩",
     "rarity": 5,
     "reload": [
@@ -3801,6 +3924,7 @@
       ]
     ],
     "id": 20608,
+    "img": "/img/squareicon/texiusi.png",
     "name": "忒修斯",
     "rarity": 5,
     "reload": [
@@ -3859,6 +3983,7 @@
       ]
     ],
     "id": 20701,
+    "img": "/img/squareicon/ying.png",
     "name": "鹰",
     "rarity": 4,
     "reload": [
@@ -3910,6 +4035,7 @@
       ]
     ],
     "id": 20702,
+    "img": "/img/squareicon/huangjiafangzhou.png",
     "name": "皇家方舟.改",
     "rarity": 4,
     "reload": [
@@ -3967,6 +4093,7 @@
       ]
     ],
     "id": 20703,
+    "img": "/img/squareicon/guanghui.png",
     "name": "光辉",
     "rarity": 5,
     "reload": [
@@ -4012,6 +4139,7 @@
       ]
     ],
     "id": 20704,
+    "img": "/img/squareicon/shengli.png",
     "name": "胜利",
     "rarity": 5,
     "reload": [
@@ -4064,6 +4192,7 @@
       ]
     ],
     "id": 20705,
+    "img": "/img/squareicon/kewei.png",
     "name": "可畏",
     "rarity": 5,
     "reload": [
@@ -4121,6 +4250,7 @@
       ]
     ],
     "id": 20706,
+    "img": "/img/squareicon/guangrong.png",
     "name": "光荣",
     "rarity": 4,
     "reload": [
@@ -4174,6 +4304,7 @@
       ]
     ],
     "id": 20707,
+    "img": "/img/squareicon/yuanchou.png",
     "name": "怨仇",
     "rarity": 6,
     "reload": [
@@ -4231,6 +4362,7 @@
       ]
     ],
     "id": 20709,
+    "img": "/img/squareicon/guanghui_younv.png",
     "name": "小光辉",
     "rarity": 4,
     "reload": [
@@ -4282,6 +4414,7 @@
       ]
     ],
     "id": 20711,
+    "img": "/img/squareicon/guanghui_idol.png",
     "name": "光辉(μ兵装)",
     "rarity": 5,
     "reload": [
@@ -4333,6 +4466,7 @@
       ]
     ],
     "id": 20712,
+    "img": "/img/squareicon/bunao.png",
     "name": "不挠",
     "rarity": 5,
     "reload": [
@@ -4391,6 +4525,7 @@
       ]
     ],
     "id": 20713,
+    "img": "/img/squareicon/kewei_younv.png",
     "name": "小可畏",
     "rarity": 4,
     "reload": [
@@ -4443,6 +4578,7 @@
       ]
     ],
     "id": 20714,
+    "img": "/img/squareicon/kewei_idol.png",
     "name": "可畏(μ兵装)",
     "rarity": 5,
     "reload": [
@@ -4502,6 +4638,7 @@
       ]
     ],
     "id": 29902,
+    "img": "/img/squareicon/junzhu.png",
     "name": "君主",
     "rarity": 5,
     "reload": [
@@ -4533,6 +4670,66 @@
     ],
     "type": 5
   },
+  "29906": {
+    "ammo": 0,
+    "camp": 2,
+    "equipCnt": [
+      1,
+      2,
+      1
+    ],
+    "equipSlots": [
+      [
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        6,
+        21
+      ],
+      [
+        10
+      ],
+      [
+        10
+      ]
+    ],
+    "id": 29906,
+    "img": "/img/squareicon/29906.jpg",
+    "name": "邓肯",
+    "rarity": 5,
+    "reload": [
+      62,
+      430,
+      0,
+      46,
+      0
+    ],
+    "skills": [
+      {
+        "desc": "战斗开始时，自身炮击、命中属性提高10.0%(20.0%)；若自身处于非旗舰位，战斗开始后每30秒，自身下一次主炮攻击造成的伤害提高10.0%(20.0%)（该效果不可叠加）；自身装备的主炮武器开火时，触发一轮特殊弹幕Lv.1(Lv.10)（威力依据技能等级），被命中的敌方单位受到高爆弹伤害提高5%，持续6秒；邓肯对轻巡洋舰、重巡洋舰造成的伤害额外提高1.0%(10.0%)",
+        "id": 190080,
+        "name": "清扫任务开始",
+        "type": 1
+      },
+      {
+        "desc": "战斗开始时，自身机动属性提高5.0%(15.0%)；自身存活时，除自身外，队伍内主力舰队受到的伤害降低1.5%(5.0%)；战斗中受到伤害导致自身耐久低于50%时，回复自身最大耐久1.5%(5.0%)，并对距离最近的敌方单位触发一颗带追踪效果的磁性鱼雷Lv.1(Lv.10)（威力依据技能等级），被鱼雷命中单位航速降低30%，持续6秒，该效果每场战斗最多触发2次",
+        "id": 190090,
+        "name": "专业特工的从容",
+        "type": 2
+      },
+      {
+        "desc": "对塞壬阵营敌人的伤害提高15%",
+        "id": 19002,
+        "name": "塞壬之敌III",
+        "type": 1
+      }
+    ],
+    "type": 4
+  },
   "30401": {
     "ammo": 0,
     "camp": 3,
@@ -4561,6 +4758,7 @@
       ]
     ],
     "id": 30401,
+    "img": "/img/squareicon/jingang.png",
     "name": "金刚(鲤)",
     "rarity": 4,
     "reload": [
@@ -4608,6 +4806,7 @@
       ]
     ],
     "id": 30402,
+    "img": "/img/squareicon/birui.png",
     "name": "比叡(鲟)",
     "rarity": 4,
     "reload": [
@@ -4655,6 +4854,7 @@
       ]
     ],
     "id": 30403,
+    "img": "/img/squareicon/zhenming.png",
     "name": "榛名(鲑)",
     "rarity": 4,
     "reload": [
@@ -4702,6 +4902,7 @@
       ]
     ],
     "id": 30404,
+    "img": "/img/squareicon/wudao.png",
     "name": "雾岛(鳗)",
     "rarity": 4,
     "reload": [
@@ -4749,6 +4950,7 @@
       ]
     ],
     "id": 30405,
+    "img": "/img/squareicon/tiancheng.png",
     "name": "天城(鳐)",
     "rarity": 5,
     "reload": [
@@ -4808,6 +5010,7 @@
       ]
     ],
     "id": 30406,
+    "img": "/img/squareicon/birui_younv.png",
     "name": "小比叡(小鲟)",
     "rarity": 4,
     "reload": [
@@ -4861,6 +5064,7 @@
       ]
     ],
     "id": 30407,
+    "img": "/img/squareicon/tiancheng_younv.png",
     "name": "小天城(小鳐)",
     "rarity": 4,
     "reload": [
@@ -4914,6 +5118,7 @@
       ]
     ],
     "id": 30408,
+    "img": "/img/squareicon/jingang_idol.png",
     "name": "金刚(鲤)(μ兵装)",
     "rarity": 4,
     "reload": [
@@ -4968,6 +5173,7 @@
       ]
     ],
     "id": 30501,
+    "img": "/img/squareicon/fusang.png",
     "name": "扶桑(魟).改",
     "rarity": 3,
     "reload": [
@@ -5022,6 +5228,7 @@
       ]
     ],
     "id": 30502,
+    "img": "/img/squareicon/shancheng.png",
     "name": "山城(鲼).改",
     "rarity": 3,
     "reload": [
@@ -5076,6 +5283,7 @@
       ]
     ],
     "id": 30503,
+    "img": "/img/squareicon/yishi.png",
     "name": "伊势(鳌).改",
     "rarity": 3,
     "reload": [
@@ -5130,6 +5338,7 @@
       ]
     ],
     "id": 30504,
+    "img": "/img/squareicon/rixiang.png",
     "name": "日向(螯).改",
     "rarity": 3,
     "reload": [
@@ -5189,6 +5398,7 @@
       ]
     ],
     "id": 30505,
+    "img": "/img/squareicon/changmen.png",
     "name": "长门(鲨)",
     "rarity": 5,
     "reload": [
@@ -5242,6 +5452,7 @@
       ]
     ],
     "id": 30506,
+    "img": "/img/squareicon/luao.png",
     "name": "陆奥(鲛)",
     "rarity": 4,
     "reload": [
@@ -5289,6 +5500,7 @@
       ]
     ],
     "id": 30507,
+    "img": "/img/squareicon/jiahezhanlie.png",
     "name": "加贺(鸾)",
     "rarity": 5,
     "reload": [
@@ -5342,6 +5554,7 @@
       ]
     ],
     "id": 30508,
+    "img": "/img/squareicon/tuzuo.png",
     "name": "土佐(䲠)",
     "rarity": 5,
     "reload": [
@@ -5395,6 +5608,7 @@
       ]
     ],
     "id": 30510,
+    "img": "/img/squareicon/wuzang.png",
     "name": "武藏(鳄)",
     "rarity": 6,
     "reload": [
@@ -5453,6 +5667,7 @@
       ]
     ],
     "id": 30511,
+    "img": "/img/squareicon/sanli.png",
     "name": "三笠(鲐)",
     "rarity": 5,
     "reload": [
@@ -5506,6 +5721,7 @@
       ]
     ],
     "id": 30512,
+    "img": "/img/squareicon/jiyi.png",
     "name": "纪伊(鲣)",
     "rarity": 5,
     "reload": [
@@ -5559,6 +5775,7 @@
       ]
     ],
     "id": 30513,
+    "img": "/img/squareicon/weizhang.png",
     "name": "尾张(鳂)",
     "rarity": 5,
     "reload": [
@@ -5612,6 +5829,7 @@
       ]
     ],
     "id": 30514,
+    "img": "/img/squareicon/junhe.png",
     "name": "骏河(鲪)",
     "rarity": 5,
     "reload": [
@@ -5665,6 +5883,7 @@
       ]
     ],
     "id": 30516,
+    "img": "/img/squareicon/jinjiang.png",
     "name": "近江(鳉)",
     "rarity": 5,
     "reload": [
@@ -5685,6 +5904,60 @@
         "desc": "战斗开始时，自身进入【风雅】状态；首次主炮开火后，切换至【酣畅】状态，之后每次主炮开火，自身状态会在【风雅】和【酣畅】之间切换；当自身进入【酣畅】状态时，触发一轮特殊弹幕Lv.1(Lv.10)（威力依据技能等级），被特殊弹幕子弹命中的敌人炮击属性降低15%（该效果不可叠加），持续10秒，自身与先锋舰队炮击属性、命中属性提高4.5%(12.0%)，持续至【酣畅】状态结束；当自身进入【风雅】状态时，触发一轮特殊弹幕Lv.1(Lv.10)（威力依据技能等级），被特殊弹幕子弹命中的敌方命中属性降低15%（该效果不可叠加），持续10秒，自身与先锋舰队机动属性、防空属性提高4.5%(12.0%)，持续至【风雅】状态结束",
         "id": 151620,
         "name": "百韵狂歌",
+        "type": 3
+      }
+    ],
+    "type": 5
+  },
+  "30517": {
+    "ammo": 0,
+    "camp": 3,
+    "equipCnt": [
+      1,
+      3,
+      1
+    ],
+    "equipSlots": [
+      [
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        6,
+        21
+      ],
+      [
+        10
+      ],
+      [
+        10
+      ]
+    ],
+    "id": 30517,
+    "img": "/img/squareicon/30517.jpg",
+    "name": "小武藏(小鳄)",
+    "rarity": 4,
+    "reload": [
+      53,
+      372,
+      0,
+      40,
+      0
+    ],
+    "skills": [
+      {
+        "desc": "战斗开始时，自身装填属性提高4.0%(10.0%)；战斗中，自身装备的主炮武器开火时，触发一轮特殊弹幕Lv.1(Lv.10)（威力依据技能等级），作为旗舰出击时，强化该弹幕样式",
+        "id": 152250,
+        "name": "静海惊雷雷雷雷雷！",
+        "type": 1
+      },
+      {
+        "desc": "战斗中，自身对重型护甲敌方单位造成的伤害提高4.0%(10.0%)、自身主炮暴击率提高4.0%(10.0%)，我方先锋舰队成员共计受到20次伤害后，为全体先锋舰队成员施加守护：受到的伤害降低1.0%(5.0%)，持续至战斗结束",
+        "id": 152260,
+        "name": "港区保护者",
         "type": 3
       }
     ],
@@ -5718,6 +5991,7 @@
       ]
     ],
     "id": 30601,
+    "img": "/img/squareicon/feiying.png",
     "name": "飞鹰(鸱)",
     "rarity": 3,
     "reload": [
@@ -5765,6 +6039,7 @@
       ]
     ],
     "id": 30602,
+    "img": "/img/squareicon/sunying.png",
     "name": "隼鹰(鸢)",
     "rarity": 3,
     "reload": [
@@ -5812,6 +6087,7 @@
       ]
     ],
     "id": 30603,
+    "img": "/img/squareicon/fengxiang.png",
     "name": "凤翔(凤)",
     "rarity": 4,
     "reload": [
@@ -5865,6 +6141,7 @@
       ]
     ],
     "id": 30604,
+    "img": "/img/squareicon/ruifeng.png",
     "name": "瑞凤(鹳)",
     "rarity": 5,
     "reload": [
@@ -5918,6 +6195,7 @@
       ]
     ],
     "id": 30605,
+    "img": "/img/squareicon/xiangfeng.png",
     "name": "祥凤(鹞).改",
     "rarity": 3,
     "reload": [
@@ -5971,6 +6249,7 @@
       ]
     ],
     "id": 30606,
+    "img": "/img/squareicon/longxiang.png",
     "name": "龙骧(枭)",
     "rarity": 4,
     "reload": [
@@ -6024,6 +6303,7 @@
       ]
     ],
     "id": 30607,
+    "img": "/img/squareicon/longfeng.png",
     "name": "龙凤(鸗)",
     "rarity": 5,
     "reload": [
@@ -6077,6 +6357,7 @@
       ]
     ],
     "id": 30608,
+    "img": "/img/squareicon/qiansui.png",
     "name": "千岁(鹂)",
     "rarity": 4,
     "reload": [
@@ -6130,6 +6411,7 @@
       ]
     ],
     "id": 30609,
+    "img": "/img/squareicon/qiandaitian.png",
     "name": "千代田(鹃)",
     "rarity": 4,
     "reload": [
@@ -6181,6 +6463,7 @@
       ]
     ],
     "id": 30701,
+    "img": "/img/squareicon/chicheng.png",
     "name": "赤城(凰)",
     "rarity": 5,
     "reload": [
@@ -6232,6 +6515,7 @@
       ]
     ],
     "id": 30702,
+    "img": "/img/squareicon/jiahe.png",
     "name": "加贺(鸾)",
     "rarity": 5,
     "reload": [
@@ -6283,6 +6567,7 @@
       ]
     ],
     "id": 30703,
+    "img": "/img/squareicon/canglong.png",
     "name": "苍龙(蛟).改",
     "rarity": 4,
     "reload": [
@@ -6340,6 +6625,7 @@
       ]
     ],
     "id": 30704,
+    "img": "/img/squareicon/feilong.png",
     "name": "飞龙(龙).改",
     "rarity": 4,
     "reload": [
@@ -6397,6 +6683,7 @@
       ]
     ],
     "id": 30705,
+    "img": "/img/squareicon/xianghe.png",
     "name": "翔鹤(鹬)",
     "rarity": 5,
     "reload": [
@@ -6448,6 +6735,7 @@
       ]
     ],
     "id": 30706,
+    "img": "/img/squareicon/ruihe.png",
     "name": "瑞鹤(鹤)",
     "rarity": 5,
     "reload": [
@@ -6499,6 +6787,7 @@
       ]
     ],
     "id": 30707,
+    "img": "/img/squareicon/dafeng.png",
     "name": "大凤(鹩)",
     "rarity": 5,
     "reload": [
@@ -6552,6 +6841,7 @@
       ]
     ],
     "id": 30708,
+    "img": "/img/squareicon/xinnong.png",
     "name": "信浓(鵗)",
     "rarity": 6,
     "reload": [
@@ -6609,6 +6899,7 @@
       ]
     ],
     "id": 30709,
+    "img": "/img/squareicon/chicheng_younv.png",
     "name": "小赤城(小凰)",
     "rarity": 4,
     "reload": [
@@ -6660,6 +6951,7 @@
       ]
     ],
     "id": 30710,
+    "img": "/img/squareicon/chicheng_idol.png",
     "name": "赤城(凰)(μ兵装)",
     "rarity": 5,
     "reload": [
@@ -6711,6 +7003,7 @@
       ]
     ],
     "id": 30711,
+    "img": "/img/squareicon/dafeng_idol.png",
     "name": "大凤(鹩)(μ兵装)",
     "rarity": 5,
     "reload": [
@@ -6762,6 +7055,7 @@
       ]
     ],
     "id": 30712,
+    "img": "/img/squareicon/gecheng.png",
     "name": "葛城(鹖)",
     "rarity": 5,
     "reload": [
@@ -6813,6 +7107,7 @@
       ]
     ],
     "id": 30713,
+    "img": "/img/squareicon/dafeng_younv.png",
     "name": "小大凤(小鹩)",
     "rarity": 4,
     "reload": [
@@ -6866,6 +7161,7 @@
       ]
     ],
     "id": 30714,
+    "img": "/img/squareicon/xinnong_younv.png",
     "name": "小信浓(小鵗)",
     "rarity": 4,
     "reload": [
@@ -6919,6 +7215,7 @@
       ]
     ],
     "id": 30715,
+    "img": "/img/squareicon/tiancheng_cv.png",
     "name": "天城(鳐)",
     "rarity": 6,
     "reload": [
@@ -6978,6 +7275,7 @@
       ]
     ],
     "id": 30716,
+    "img": "/img/squareicon/baifeng.png",
     "name": "白凤(䳆)",
     "rarity": 6,
     "reload": [
@@ -7035,6 +7333,7 @@
       ]
     ],
     "id": 30717,
+    "img": "/img/squareicon/yunlong.png",
     "name": "云龙(靇)",
     "rarity": 5,
     "reload": [
@@ -7088,6 +7387,7 @@
       ]
     ],
     "id": 39902,
+    "img": "/img/squareicon/chuyun.png",
     "name": "出云(侌)",
     "rarity": 5,
     "reload": [
@@ -7147,6 +7447,7 @@
       ]
     ],
     "id": 39905,
+    "img": "/img/squareicon/bailong.png",
     "name": "白龙(鹫)",
     "rarity": 6,
     "reload": [
@@ -7212,6 +7513,7 @@
       ]
     ],
     "id": 39907,
+    "img": "/img/squareicon/dashan.png",
     "name": "大山(鳝)",
     "rarity": 5,
     "reload": [
@@ -7271,6 +7573,7 @@
       ]
     ],
     "id": 40401,
+    "img": "/img/squareicon/shaenhuosite.png",
     "name": "沙恩霍斯特(格尔林德)",
     "rarity": 4,
     "reload": [
@@ -7324,6 +7627,7 @@
       ]
     ],
     "id": 40402,
+    "img": "/img/squareicon/genaisennao.png",
     "name": "格奈森瑙(奥古斯塔)",
     "rarity": 4,
     "reload": [
@@ -7378,6 +7682,7 @@
       ]
     ],
     "id": 40403,
+    "img": "/img/squareicon/saidelici.png",
     "name": "塞德利茨(桑德菈)",
     "rarity": 5,
     "reload": [
@@ -7438,6 +7743,7 @@
       ]
     ],
     "id": 40404,
+    "img": "/img/squareicon/lvzuofu.png",
     "name": "吕佐夫(露西)",
     "rarity": 5,
     "reload": [
@@ -7497,6 +7803,7 @@
       ]
     ],
     "id": 40405,
+    "img": "/img/squareicon/bulunxierde.png",
     "name": "布伦希尔德(贝尔莎)",
     "rarity": 5,
     "reload": [
@@ -7550,6 +7857,7 @@
       ]
     ],
     "id": 40406,
+    "img": "/img/squareicon/yaerweite.png",
     "name": "亚尔薇特",
     "rarity": 5,
     "reload": [
@@ -7603,6 +7911,7 @@
       ]
     ],
     "id": 40407,
+    "img": "/img/squareicon/zengkehaijunshangjiang.png",
     "name": "曾克海军上将(泽特)",
     "rarity": 5,
     "reload": [
@@ -7656,6 +7965,7 @@
       ]
     ],
     "id": 40501,
+    "img": "/img/squareicon/bisimai.png",
     "name": "俾斯麦(奥德莉亚)",
     "rarity": 5,
     "reload": [
@@ -7721,6 +8031,7 @@
       ]
     ],
     "id": 40502,
+    "img": "/img/squareicon/tierbici.png",
     "name": "提尔比茨(阿尔芙莉达)",
     "rarity": 5,
     "reload": [
@@ -7774,6 +8085,7 @@
       ]
     ],
     "id": 40503,
+    "img": "/img/squareicon/wuerlixi.png",
     "name": "乌尔里希·冯·胡滕(乌尔里克·冯·胡贝尔)",
     "rarity": 6,
     "reload": [
@@ -7834,6 +8146,7 @@
       ]
     ],
     "id": 40504,
+    "img": "/img/squareicon/tulingen.png",
     "name": "图林根(特鲁德)",
     "rarity": 4,
     "reload": [
@@ -7887,6 +8200,7 @@
       ]
     ],
     "id": 40505,
+    "img": "/img/squareicon/bisimaiz.png",
     "name": "俾斯麦Zwei(奥德莉亚Zwei)",
     "rarity": 6,
     "reload": [
@@ -7952,6 +8266,7 @@
       ]
     ],
     "id": 40506,
+    "img": "/img/squareicon/feiteliedadi_younv.png",
     "name": "小腓特烈(小腓德雷卡)",
     "rarity": 4,
     "reload": [
@@ -7973,6 +8288,66 @@
         "id": 150130,
         "name": "稚声的合奏歌",
         "type": 3
+      }
+    ],
+    "type": 5
+  },
+  "40507": {
+    "ammo": 0,
+    "camp": 4,
+    "equipCnt": [
+      2,
+      3,
+      1
+    ],
+    "equipSlots": [
+      [
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        6,
+        21
+      ],
+      [
+        10
+      ],
+      [
+        10
+      ]
+    ],
+    "id": 40507,
+    "img": "/img/squareicon/40507.jpg",
+    "name": "葛兹·冯·伯利欣根(戈达·冯·贝格海姆)",
+    "rarity": 6,
+    "reload": [
+      65,
+      454,
+      0,
+      49,
+      0
+    ],
+    "skills": [
+      {
+        "desc": "自身的主炮武器装填完毕时， 有50.0%(100.0%)概率发动，使在场的一名敌方角色6秒内受到的伤害提高3.5%(8.0%)，优先对精英目标(人形单位)生效，并触发一轮特殊弹幕Lv.1(Lv.10)(威力依据技能等级)；敌方进入防卫射程时，触发一轮特殊弹幕Lv.1(Lv.10)(威力依据技能等级)，触发后进入15秒冷却，首次触发同时回复自身6%的耐久",
+        "id": 152330,
+        "name": "终章的铁腕审判",
+        "type": 1
+      },
+      {
+        "desc": "战斗开始时，自身炮击、命中、装填属性提高5.0%(15.0%)；自身主炮装填所需时间减少50%，主炮造成的伤害降低55.0%(45.0%)；战斗中，自身对在场超过2秒的敌方单位暴击率提高1.0%(10.0%)，暴击伤害提高10.0%(20.0%)",
+        "id": 152340,
+        "name": "吟唱的反抗诗篇",
+        "type": 3
+      },
+      {
+        "desc": "战斗开始时，自身受到的伤害降低1.0%(10.0%)；若自身存活，主力舰队中的铁血阵营角色受到的点燃伤害降低10.0%(20.0%)；关卡海域内其他编队进入该编队的第1、2、3场战斗时，若自身存活，战斗开始后30秒发动一轮支援弹幕Lv.1(Lv.10)（弹幕威力依据技能等级），同时回复旗舰角色5%的耐久",
+        "id": 152350,
+        "name": "不焚的血契之稿",
+        "type": 2
       }
     ],
     "type": 5
@@ -8005,6 +8380,7 @@
       ]
     ],
     "id": 40601,
+    "img": "/img/squareicon/weixi.png",
     "name": "威悉(威尔玛)",
     "rarity": 4,
     "reload": [
@@ -8058,6 +8434,7 @@
       ]
     ],
     "id": 40602,
+    "img": "/img/squareicon/yibei.png",
     "name": "易北(埃尔斯贝特)",
     "rarity": 4,
     "reload": [
@@ -8111,6 +8488,7 @@
       ]
     ],
     "id": 40603,
+    "img": "/img/squareicon/yade.png",
     "name": "亚德(阿黛尔)",
     "rarity": 4,
     "reload": [
@@ -8163,6 +8541,7 @@
       ]
     ],
     "id": 40701,
+    "img": "/img/squareicon/qibolin.png",
     "name": "齐柏林伯爵(海拉伯爵)",
     "rarity": 5,
     "reload": [
@@ -8215,6 +8594,7 @@
       ]
     ],
     "id": 40702,
+    "img": "/img/squareicon/qibolin_younv.png",
     "name": "小齐柏林(小海拉)",
     "rarity": 4,
     "reload": [
@@ -8266,6 +8646,7 @@
       ]
     ],
     "id": 40703,
+    "img": "/img/squareicon/shitelasai.png",
     "name": "彼得·史特拉塞(佩特菈·斯坦贝瑟)",
     "rarity": 5,
     "reload": [
@@ -8326,6 +8707,7 @@
       ]
     ],
     "id": 40704,
+    "img": "/img/squareicon/fulici.png",
     "name": "弗里茨·鲁梅(菲莉西娅·鲁梅)",
     "rarity": 6,
     "reload": [
@@ -8403,6 +8785,7 @@
       ]
     ],
     "id": 49902,
+    "img": "/img/squareicon/feiteliedadi.png",
     "name": "腓特烈大帝(腓德雷卡大帝)",
     "rarity": 6,
     "reload": [
@@ -8467,6 +8850,7 @@
       ]
     ],
     "id": 49904,
+    "img": "/img/squareicon/aoding.png",
     "name": "奥丁(沃登)",
     "rarity": 5,
     "reload": [
@@ -8530,6 +8914,7 @@
       ]
     ],
     "id": 49906,
+    "img": "/img/squareicon/aogusite.png",
     "name": "奥古斯特·冯·帕塞瓦尔(奥斯特雷德·冯·帕赫贝尔)",
     "rarity": 5,
     "reload": [
@@ -8595,6 +8980,7 @@
       ]
     ],
     "id": 49907,
+    "img": "/img/squareicon/lupuleixite.png",
     "name": "鲁普雷希特亲王(蕾贝卡亲王)",
     "rarity": 5,
     "reload": [
@@ -8654,6 +9040,7 @@
       ]
     ],
     "id": 49910,
+    "img": "/img/squareicon/meikelunbao.png",
     "name": "梅克伦堡(梅克琳达)",
     "rarity": 6,
     "reload": [
@@ -8691,6 +9078,72 @@
     ],
     "type": 5
   },
+  "49911": {
+    "ammo": 0,
+    "camp": 4,
+    "equipCnt": [
+      3,
+      3,
+      3
+    ],
+    "equipSlots": [
+      [
+        7
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        10
+      ],
+      [
+        10
+      ]
+    ],
+    "id": 49911,
+    "img": "/img/squareicon/49911.jpg",
+    "name": "马克斯·殷麦曼(玛克西米莉安·伊梅拉)",
+    "rarity": 6,
+    "reload": [
+      48,
+      335,
+      0,
+      36,
+      0
+    ],
+    "skills": [
+      {
+        "desc": "自身发动空袭时有50.0%(100.0%)概率触发以下效果：①自身造成的伤害提高1.0%(10.0%)，持续6秒②自身暴击率提高10.0%(20.0%)、暴击伤害提高20.0%(40.0%)，持续6秒③触发一轮特殊弹幕Lv.1(Lv.10)（威力依据技能等级）",
+        "id": 190030,
+        "name": "荒古囚龙之翼",
+        "type": 1
+      },
+      {
+        "desc": "战斗开始时，自身航空、命中属性提高5.0%(15.0%)；自身发动空袭时，自身被侦测条回复速率提高2点/秒，持续5秒；自身武器栏位装备轰炸机时，装填提高1.0%(10.0%)",
+        "id": 190040,
+        "name": "激荡苍穹之影",
+        "type": 3
+      },
+      {
+        "desc": "战斗中自身受到伤害导致耐久低于40%时，触发以下效果：①清空自身被侦测条并回复自身耐久15.0%(30.0%)②自身防空、机动属性提高5.0%(15.0%)③自身受到的伤害降低10.0%(20.0%)，每场战斗只能触发一次",
+        "id": 190050,
+        "name": "不破龙鳞之壁",
+        "type": 2
+      },
+      {
+        "desc": "对塞壬阵营敌人的伤害提高15%",
+        "id": 19002,
+        "name": "塞壬之敌III",
+        "type": 1
+      }
+    ],
+    "type": 7
+  },
   "50401": {
     "ammo": 0,
     "camp": 5,
@@ -8718,6 +9171,7 @@
       ]
     ],
     "id": 50401,
+    "img": "/img/squareicon/huanchang.png",
     "name": "寰昌",
     "rarity": 5,
     "reload": [
@@ -8776,6 +9230,7 @@
       ]
     ],
     "id": 50601,
+    "img": "/img/squareicon/zhenhai.png",
     "name": "镇海.改",
     "rarity": 4,
     "reload": [
@@ -8839,6 +9294,7 @@
       ]
     ],
     "id": 50602,
+    "img": "/img/squareicon/huajia.png",
     "name": "华甲.改",
     "rarity": 4,
     "reload": [
@@ -8898,6 +9354,7 @@
       ]
     ],
     "id": 60501,
+    "img": "/img/squareicon/weineituo.png",
     "name": "维托里奥·维内托",
     "rarity": 5,
     "reload": [
@@ -8957,6 +9414,7 @@
       ]
     ],
     "id": 60502,
+    "img": "/img/squareicon/lituoliao.png",
     "name": "利托里奥",
     "rarity": 5,
     "reload": [
@@ -9010,6 +9468,7 @@
       ]
     ],
     "id": 60503,
+    "img": "/img/squareicon/luoma.png",
     "name": "罗马",
     "rarity": 5,
     "reload": [
@@ -9068,6 +9527,7 @@
       ]
     ],
     "id": 60505,
+    "img": "/img/squareicon/jiafuerbojue.png",
     "name": "加富尔伯爵",
     "rarity": 3,
     "reload": [
@@ -9114,6 +9574,7 @@
       ]
     ],
     "id": 60506,
+    "img": "/img/squareicon/kaisa.png",
     "name": "朱利奥·凯撒",
     "rarity": 4,
     "reload": [
@@ -9167,6 +9628,7 @@
       ]
     ],
     "id": 60507,
+    "img": "/img/squareicon/andelieyaduoliya.png",
     "name": "安德烈亚·多利亚",
     "rarity": 4,
     "reload": [
@@ -9220,6 +9682,7 @@
       ]
     ],
     "id": 60508,
+    "img": "/img/squareicon/lafeier.png",
     "name": "拉斐尔",
     "rarity": 6,
     "reload": [
@@ -9279,6 +9742,7 @@
       ]
     ],
     "id": 60509,
+    "img": "/img/squareicon/fulangxisike.png",
     "name": "弗朗西斯科·卡拉乔洛",
     "rarity": 5,
     "reload": [
@@ -9331,6 +9795,7 @@
       ]
     ],
     "id": 60701,
+    "img": "/img/squareicon/tianying.png",
     "name": "天鹰",
     "rarity": 5,
     "reload": [
@@ -9389,6 +9854,7 @@
       ]
     ],
     "id": 60702,
+    "img": "/img/squareicon/diguo.png",
     "name": "帝国",
     "rarity": 5,
     "reload": [
@@ -9442,6 +9908,7 @@
       ]
     ],
     "id": 69901,
+    "img": "/img/squareicon/makeboluo.png",
     "name": "马可波罗",
     "rarity": 5,
     "reload": [
@@ -9507,6 +9974,7 @@
       ]
     ],
     "id": 70501,
+    "img": "/img/squareicon/gangute.png",
     "name": "甘古特",
     "rarity": 4,
     "reload": [
@@ -9560,6 +10028,7 @@
       ]
     ],
     "id": 70502,
+    "img": "/img/squareicon/suweiaitongmeng.png",
     "name": "苏维埃同盟(苏维埃萨尤斯)",
     "rarity": 6,
     "reload": [
@@ -9619,6 +10088,7 @@
       ]
     ],
     "id": 70504,
+    "img": "/img/squareicon/suweiaibeilaluosi.png",
     "name": "苏维埃贝拉罗斯",
     "rarity": 5,
     "reload": [
@@ -9672,6 +10142,7 @@
       ]
     ],
     "id": 70505,
+    "img": "/img/squareicon/suweiailuoxiya.png",
     "name": "苏维埃罗西亚",
     "rarity": 5,
     "reload": [
@@ -9725,6 +10196,7 @@
       ]
     ],
     "id": 70506,
+    "img": "/img/squareicon/aerhangeersike.png",
     "name": "阿尔汉格尔斯克",
     "rarity": 4,
     "reload": [
@@ -9778,6 +10250,7 @@
       ]
     ],
     "id": 70507,
+    "img": "/img/squareicon/saiwasituoboer.png",
     "name": "塞瓦斯托波尔",
     "rarity": 4,
     "reload": [
@@ -9831,6 +10304,7 @@
       ]
     ],
     "id": 70508,
+    "img": "/img/squareicon/boertawa.png",
     "name": "波尔塔瓦",
     "rarity": 4,
     "reload": [
@@ -9884,6 +10358,7 @@
       ]
     ],
     "id": 70509,
+    "img": "/img/squareicon/kashan.png",
     "name": "喀山",
     "rarity": 5,
     "reload": [
@@ -9935,6 +10410,7 @@
       ]
     ],
     "id": 70701,
+    "img": "/img/squareicon/fuerjia.png",
     "name": "伏尔加",
     "rarity": 5,
     "reload": [
@@ -9992,6 +10468,7 @@
       ]
     ],
     "id": 79901,
+    "img": "/img/squareicon/qikaluofu.png",
     "name": "契卡洛夫",
     "rarity": 5,
     "reload": [
@@ -10051,6 +10528,7 @@
       ]
     ],
     "id": 79902,
+    "img": "/img/squareicon/naximofu.png",
     "name": "纳希莫夫海军上将",
     "rarity": 6,
     "reload": [
@@ -10115,6 +10593,7 @@
       ]
     ],
     "id": 80401,
+    "img": "/img/squareicon/masaina.png",
     "name": "马塞纳",
     "rarity": 5,
     "reload": [
@@ -10168,6 +10647,7 @@
       ]
     ],
     "id": 80501,
+    "img": "/img/squareicon/lisailiu.png",
     "name": "黎塞留",
     "rarity": 5,
     "reload": [
@@ -10233,6 +10713,7 @@
       ]
     ],
     "id": 80502,
+    "img": "/img/squareicon/liang.png",
     "name": "里昂",
     "rarity": 4,
     "reload": [
@@ -10286,6 +10767,7 @@
       ]
     ],
     "id": 80503,
+    "img": "/img/squareicon/aersasi.png",
     "name": "阿尔萨斯",
     "rarity": 6,
     "reload": [
@@ -10345,6 +10827,7 @@
       ]
     ],
     "id": 80601,
+    "img": "/img/squareicon/beilaosenlin.png",
     "name": "贝劳森林",
     "rarity": 5,
     "reload": [
@@ -10397,6 +10880,7 @@
       ]
     ],
     "id": 80701,
+    "img": "/img/squareicon/beiyaen.png",
     "name": "贝亚恩",
     "rarity": 4,
     "reload": [
@@ -10448,6 +10932,7 @@
       ]
     ],
     "id": 80702,
+    "img": "/img/squareicon/banerwei.png",
     "name": "伴尔维",
     "rarity": 5,
     "reload": [
@@ -10501,6 +10986,7 @@
       ]
     ],
     "id": 89902,
+    "img": "/img/squareicon/xiangbin.png",
     "name": "香槟",
     "rarity": 5,
     "reload": [
@@ -10559,6 +11045,7 @@
       ]
     ],
     "id": 90401,
+    "img": "/img/squareicon/dunkeerke.png",
     "name": "敦刻尔克",
     "rarity": 4,
     "reload": [
@@ -10605,6 +11092,7 @@
       ]
     ],
     "id": 90402,
+    "img": "/img/squareicon/sitelasibao.png",
     "name": "斯特拉斯堡",
     "rarity": 5,
     "reload": [
@@ -10658,6 +11146,7 @@
       ]
     ],
     "id": 90501,
+    "img": "/img/squareicon/rangbaer.png",
     "name": "让·巴尔(简·布罗伊)",
     "rarity": 5,
     "reload": [
@@ -10711,6 +11200,7 @@
       ]
     ],
     "id": 90502,
+    "img": "/img/squareicon/kelaimengsuo.png",
     "name": "克莱蒙梭",
     "rarity": 5,
     "reload": [
@@ -10770,6 +11260,7 @@
       ]
     ],
     "id": 90503,
+    "img": "/img/squareicon/jiasikenie_idol.png",
     "name": "加斯科涅(μ兵装)",
     "rarity": 5,
     "reload": [
@@ -10821,6 +11312,7 @@
       ]
     ],
     "id": 90701,
+    "img": "/img/squareicon/xiafei.png",
     "name": "霞飞",
     "rarity": 5,
     "reload": [
@@ -10874,6 +11366,7 @@
       ]
     ],
     "id": 99901,
+    "img": "/img/squareicon/jiasikenie.png",
     "name": "加斯科涅",
     "rarity": 5,
     "reload": [
@@ -10933,6 +11426,7 @@
       ]
     ],
     "id": 99902,
+    "img": "/img/squareicon/fulandeer.png",
     "name": "弗兰德尔",
     "rarity": 5,
     "reload": [
@@ -10953,6 +11447,71 @@
         "desc": "自身机动属性提高5.0%(15.0%)、炮击属性提高5.0%(20.0%)；自身在战斗中受到伤害，导致血量低于50%后，5秒内每秒回复自身3%耐久，回复完成后，提升自身副炮索敌范围和射程至95，提高副炮武器效率30%(每场战斗1次)",
         "id": 19740,
         "name": "增益命令「羽翼重丰」",
+        "type": 2
+      },
+      {
+        "desc": "对塞壬阵营敌人的伤害提高15%",
+        "id": 19002,
+        "name": "塞壬之敌III",
+        "type": 1
+      }
+    ],
+    "type": 5
+  },
+  "129901": {
+    "ammo": 0,
+    "camp": 12,
+    "equipCnt": [
+      2,
+      3,
+      1
+    ],
+    "equipSlots": [
+      [
+        4
+      ],
+      [
+        1
+      ],
+      [
+        6,
+        21
+      ],
+      [
+        10
+      ],
+      [
+        10
+      ]
+    ],
+    "id": 129901,
+    "img": "/img/squareicon/129901.jpg",
+    "name": "瓦尔帕莱索",
+    "rarity": 6,
+    "reload": [
+      65,
+      449,
+      0,
+      48,
+      0
+    ],
+    "skills": [
+      {
+        "desc": "战斗中，自身装备的主炮武器装填完毕时，发射一轮特殊弹幕Lv.1(Lv.10)（威力依据技能等级），6秒内使此时在场的敌方角色受到的伤害提高3%、我方角色航速提高3，防空属性提高5.0%(15.0%)",
+        "id": 190100,
+        "name": "航路导引之风",
+        "type": 1
+      },
+      {
+        "desc": "进入战斗时，提高自身炮击属性1.0%(10.0%)，装填属性10.0%(20.0%)；自身装备的副炮武器弹药更换为无视护盾阻挡的特殊高爆弹Lv.1(Lv.10)（特殊高爆弹的对护甲伤害比例随技能等级提高而提高），进入战斗后20秒，或副炮武器开火30次后，立即恢复自身5.0%(15.0%)耐久，自身装备的副炮武器索敌范围和射程提高至105，持续至战斗结束",
+        "id": 190110,
+        "name": "晶焰归航之诗",
+        "type": 3
+      },
+      {
+        "desc": "战斗中，副炮武器每开火20次，恢复自身1.5%(5.0%)耐久（触发后进入5秒冷却），恢复效果每触发2次，为当前耐久百分比最低的我方角色回复3.5%(8.0%)耐久；关卡海域内其他编队进入时，若自身存活，战斗中敌方进入防卫射程时，触发一次特殊支援攻击Lv.1(Lv.10)，触发后进入5秒冷却（特殊攻击威力依据技能等级，最多触发五次，触发第五次时，恢复先锋领舰角色5%耐久）",
+        "id": 190120,
+        "name": "宝石治愈之歌",
         "type": 2
       },
       {
@@ -10992,6 +11551,7 @@
       ]
     ],
     "id": 970401,
+    "img": "/img/squareicon/genaisennao_alter.png",
     "name": "格奈森瑙(奥古斯塔)·META",
     "rarity": 5,
     "reload": [
@@ -11038,6 +11598,7 @@
       ]
     ],
     "id": 970402,
+    "img": "/img/squareicon/shaenhuosite_alter.png",
     "name": "沙恩霍斯特(格尔林德)·META",
     "rarity": 5,
     "reload": [
@@ -11084,6 +11645,7 @@
       ]
     ],
     "id": 970403,
+    "img": "/img/squareicon/fanji_alter.png",
     "name": "反击·META",
     "rarity": 5,
     "reload": [
@@ -11130,6 +11692,7 @@
       ]
     ],
     "id": 970404,
+    "img": "/img/squareicon/shengwang_alter.png",
     "name": "声望·META",
     "rarity": 5,
     "reload": [
@@ -11177,6 +11740,7 @@
       ]
     ],
     "id": 970405,
+    "img": "/img/squareicon/birui_alter.png",
     "name": "比叡(鲟)·META",
     "rarity": 5,
     "reload": [
@@ -11223,6 +11787,7 @@
       ]
     ],
     "id": 970406,
+    "img": "/img/squareicon/dunkeerke_alter.png",
     "name": "敦刻尔克·META",
     "rarity": 4,
     "reload": [
@@ -11270,6 +11835,7 @@
       ]
     ],
     "id": 970501,
+    "img": "/img/squareicon/fusang_alter.png",
     "name": "扶桑(魟)·META",
     "rarity": 4,
     "reload": [
@@ -11317,6 +11883,7 @@
       ]
     ],
     "id": 970502,
+    "img": "/img/squareicon/shancheng_alter.png",
     "name": "山城(鲼)·META",
     "rarity": 4,
     "reload": [
@@ -11363,6 +11930,7 @@
       ]
     ],
     "id": 970503,
+    "img": "/img/squareicon/yalisangna_alter.png",
     "name": "亚利桑那·META",
     "rarity": 5,
     "reload": [
@@ -11410,6 +11978,7 @@
       ]
     ],
     "id": 970504,
+    "img": "/img/squareicon/yilishabai_alter.png",
     "name": "伊丽莎白女王·META",
     "rarity": 5,
     "reload": [
@@ -11457,6 +12026,7 @@
       ]
     ],
     "id": 970505,
+    "img": "/img/squareicon/luodeni_alter.png",
     "name": "罗德尼·META",
     "rarity": 5,
     "reload": [
@@ -11504,6 +12074,7 @@
       ]
     ],
     "id": 970506,
+    "img": "/img/squareicon/changmen_alter.png",
     "name": "长门(鲨)·META",
     "rarity": 5,
     "reload": [
@@ -11550,6 +12121,7 @@
       ]
     ],
     "id": 970507,
+    "img": "/img/squareicon/kaisa_alter.png",
     "name": "朱利奥·凯撒·META",
     "rarity": 4,
     "reload": [
@@ -11597,6 +12169,7 @@
       ]
     ],
     "id": 970508,
+    "img": "/img/squareicon/andelieyaduoliya_alter.png",
     "name": "安德烈亚·多利亚·META",
     "rarity": 5,
     "reload": [
@@ -11643,6 +12216,7 @@
       ]
     ],
     "id": 970509,
+    "img": "/img/squareicon/neihuada_alter.png",
     "name": "内华达·META",
     "rarity": 4,
     "reload": [
@@ -11690,6 +12264,7 @@
       ]
     ],
     "id": 970510,
+    "img": "/img/squareicon/gangute_alter.png",
     "name": "甘古特·META",
     "rarity": 5,
     "reload": [
@@ -11737,6 +12312,7 @@
       ]
     ],
     "id": 970601,
+    "img": "/img/squareicon/feiying_alter.png",
     "name": "飞鹰(鸱)·META",
     "rarity": 4,
     "reload": [
@@ -11784,6 +12360,7 @@
       ]
     ],
     "id": 970602,
+    "img": "/img/squareicon/sunying_alter.png",
     "name": "隼鹰(鸢)·META",
     "rarity": 4,
     "reload": [
@@ -11831,6 +12408,7 @@
       ]
     ],
     "id": 970603,
+    "img": "/img/squareicon/pulinsidun_alter.png",
     "name": "普林斯顿·META",
     "rarity": 4,
     "reload": [
@@ -11878,6 +12456,7 @@
       ]
     ],
     "id": 970604,
+    "img": "/img/squareicon/fengxiang_alter.png",
     "name": "凤翔(凤)·META",
     "rarity": 4,
     "reload": [
@@ -11923,6 +12502,7 @@
       ]
     ],
     "id": 970701,
+    "img": "/img/squareicon/feilong_alter.png",
     "name": "飞龙(龙)·META",
     "rarity": 5,
     "reload": [
@@ -11968,6 +12548,7 @@
       ]
     ],
     "id": 970702,
+    "img": "/img/squareicon/huangjiafangzhou_alter.png",
     "name": "皇家方舟·META",
     "rarity": 5,
     "reload": [
@@ -12013,6 +12594,7 @@
       ]
     ],
     "id": 970703,
+    "img": "/img/squareicon/canglong_alter.png",
     "name": "苍龙(蛟)·META",
     "rarity": 5,
     "reload": [
@@ -12059,6 +12641,7 @@
       ]
     ],
     "id": 970704,
+    "img": "/img/squareicon/beiyaen_alter.png",
     "name": "贝亚恩·META",
     "rarity": 5,
     "reload": [
@@ -12104,6 +12687,7 @@
       ]
     ],
     "id": 970705,
+    "img": "/img/squareicon/dafeng_alter.png",
     "name": "大凤(鹩)·META",
     "rarity": 5,
     "reload": [
@@ -12149,6 +12733,7 @@
       ]
     ],
     "id": 970706,
+    "img": "/img/squareicon/dahuangfeng_alter.png",
     "name": "大黄蜂·META",
     "rarity": 5,
     "reload": [
@@ -12194,6 +12779,7 @@
       ]
     ],
     "id": 970707,
+    "img": "/img/squareicon/guangrong_alter.png",
     "name": "光荣·META",
     "rarity": 5,
     "reload": [
@@ -12239,6 +12825,7 @@
       ]
     ],
     "id": 970708,
+    "img": "/img/squareicon/yuekecheng_alter.png",
     "name": "约克城·META",
     "rarity": 5,
     "reload": [
@@ -12254,6 +12841,128 @@
         "id": 802002,
         "name": "构造之理·约克城II",
         "type": 1
+      }
+    ],
+    "type": 7
+  },
+  "970709": {
+    "ammo": 0,
+    "camp": 97,
+    "equipCnt": [
+      2,
+      3,
+      3
+    ],
+    "equipSlots": [
+      [
+        7
+      ],
+      [
+        9
+      ],
+      [
+        8
+      ],
+      [
+        10
+      ],
+      [
+        10
+      ]
+    ],
+    "id": 970709,
+    "img": "/img/squareicon/970709.jpg",
+    "name": "胜利·META",
+    "rarity": 5,
+    "reload": [
+      40,
+      276,
+      0,
+      30,
+      0
+    ],
+    "skills": [
+      {
+        "desc": "战斗开始时，自身航空、命中属性提高5.0%(15.0%)；战斗中自身发动空袭时触发一轮航空弹幕Lv.1(Lv.10)（威力依据技能等级）；自身对战列舰伤害提高10.0%(20.0%)，队伍中其他正航、轻航角色对战列舰造成的伤害提高5.0%(10.0%)",
+        "id": 802310,
+        "name": "胜利之炬",
+        "type": 1
+      },
+      {
+        "desc": "自身空袭整备完成时，提高自身造成的伤害5.0%(15.0%)，主力舰队中其他角色受到的伤害降低1.0%(5.0%)，最多叠加2层；受到致命伤害时回避本次伤害，不会阵亡，5(15)秒内回避所有伤害，每场战斗只能触发一次",
+        "id": 802320,
+        "name": "永志不灭",
+        "type": 2
+      },
+      {
+        "desc": "【大型作战效果】\n与精英舰队或BOSS舰队交战时，自身造成的所有伤害提高8%",
+        "id": 802332,
+        "name": "破敌之炬·胜利II",
+        "type": 3
+      }
+    ],
+    "type": 7
+  },
+  "970710": {
+    "ammo": 0,
+    "camp": 97,
+    "equipCnt": [
+      3,
+      3,
+      2
+    ],
+    "equipSlots": [
+      [
+        7
+      ],
+      [
+        9
+      ],
+      [
+        8
+      ],
+      [
+        10
+      ],
+      [
+        10
+      ]
+    ],
+    "id": 970710,
+    "img": "/img/squareicon/970710.jpg",
+    "name": "萨拉托加·META",
+    "rarity": 5,
+    "reload": [
+      48,
+      332,
+      0,
+      36,
+      0
+    ],
+    "skills": [
+      {
+        "desc": "战斗开始后5秒及之后每10秒触发，发射一轮特殊弹幕Lv.1(Lv.10)（威力依据技能等级），战斗中自身空袭整备完毕时，萨拉托加·meta会获得一轮应援弹幕Lv.1(Lv.10)（威力依据技能等级、伤害依据自身航空属性），应援弹幕触发时使自身造成的伤害提高1.0%(10.0%)，持续8秒",
+        "id": 802370,
+        "name": "闪耀★璀璨登场",
+        "type": 1
+      },
+      {
+        "desc": "战斗开始时，自身航空属性提高1.0%(10.0%)；战斗中每次执行空袭时，交替触发以下效果（首次空袭触发效果①）：①队伍中先锋角色造成的伤害提高1.0%(10.0%)，持续8秒；②队伍中先锋角色受到的伤害降低1.0%(10.0%)，持续8秒；",
+        "id": 802380,
+        "name": "耀眼★完美演出",
+        "type": 3
+      },
+      {
+        "desc": "战斗开始时，若队伍主力舰队满编，自身被侦测条最大值增加20点；战斗中，若自身耐久高于最大耐久的50%，自身命中属性提高5.0%(15.0%)；若自身耐久低于最大耐久的50%，自身机动属性提高5.0%(15.0%)；战斗中受到伤害导致自身耐久低于50%时，清空自己被侦测条并在每5秒1.0%缓慢恢复耐久，持续至战斗结束（该效果每场战斗最多触发一次）",
+        "id": 802390,
+        "name": "炫丽★舞台变幻",
+        "type": 2
+      },
+      {
+        "desc": "【大型作战效果】\n与精英舰队或BOSS舰队交战时，自身造成的所有伤害提高8%",
+        "id": 802402,
+        "name": "破敌之炬·萨拉托加II",
+        "type": 4
       }
     ],
     "type": 7
@@ -12284,6 +12993,7 @@
       ]
     ],
     "id": 1010004,
+    "img": "/img/squareicon/HDN401.png",
     "name": "贝露",
     "rarity": 4,
     "reload": [
@@ -12329,6 +13039,7 @@
       ]
     ],
     "id": 1010008,
+    "img": "/img/squareicon/HDN402_1.png",
     "name": "翡绿之心",
     "rarity": 5,
     "reload": [
@@ -12382,6 +13093,7 @@
       ]
     ],
     "id": 1030004,
+    "img": "/img/squareicon/wululu.png",
     "name": "乌璐露",
     "rarity": 4,
     "reload": [
@@ -12435,6 +13147,7 @@
       ]
     ],
     "id": 1030005,
+    "img": "/img/squareicon/salana.png",
     "name": "萨拉娜",
     "rarity": 4,
     "reload": [
@@ -12486,6 +13199,7 @@
       ]
     ],
     "id": 1030006,
+    "img": "/img/squareicon/fumilulu.png",
     "name": "芙米露露",
     "rarity": 4,
     "reload": [
@@ -12537,6 +13251,7 @@
       ]
     ],
     "id": 1040003,
+    "img": "/img/squareicon/aijiangCV.png",
     "name": "绊爱·Anniversary",
     "rarity": 5,
     "reload": [
@@ -12590,6 +13305,7 @@
       ]
     ],
     "id": 1040004,
+    "img": "/img/squareicon/aijiangBB.png",
     "name": "绊爱·SuperGamer",
     "rarity": 5,
     "reload": [
@@ -12643,6 +13359,7 @@
       ]
     ],
     "id": 1060002,
+    "img": "/img/squareicon/suixiang_doa.png",
     "name": "穗香",
     "rarity": 5,
     "reload": [
@@ -12696,6 +13413,7 @@
       ]
     ],
     "id": 1060005,
+    "img": "/img/squareicon/zhixiao_DOA.png",
     "name": "凪咲",
     "rarity": 4,
     "reload": [
@@ -12747,6 +13465,7 @@
       ]
     ],
     "id": 1060006,
+    "img": "/img/squareicon/nvtiangou_DOA.png",
     "name": "女天狗",
     "rarity": 4,
     "reload": [
@@ -12801,6 +13520,7 @@
       ]
     ],
     "id": 1060008,
+    "img": "/img/squareicon/luna_doa.png",
     "name": "露娜",
     "rarity": 5,
     "reload": [
@@ -12854,6 +13574,7 @@
       ]
     ],
     "id": 1060009,
+    "img": "/img/squareicon/huan_doa.png",
     "name": "环",
     "rarity": 5,
     "reload": [
@@ -12905,6 +13626,7 @@
       ]
     ],
     "id": 1060010,
+    "img": "/img/squareicon/1060010.jpg",
     "name": "伊莉丝",
     "rarity": 5,
     "reload": [
@@ -12958,6 +13680,7 @@
       ]
     ],
     "id": 1060011,
+    "img": "/img/squareicon/1060011.jpg",
     "name": "雫",
     "rarity": 5,
     "reload": [
@@ -13009,6 +13732,7 @@
       ]
     ],
     "id": 1070002,
+    "img": "/img/squareicon/qianzao.png",
     "name": "如月千早",
     "rarity": 5,
     "reload": [
@@ -13067,6 +13791,7 @@
       ]
     ],
     "id": 1070003,
+    "img": "/img/squareicon/yizhi.png",
     "name": "水濑伊织",
     "rarity": 5,
     "reload": [
@@ -13120,6 +13845,7 @@
       ]
     ],
     "id": 1080002,
+    "img": "/img/squareicon/qian.png",
     "name": "新条茜 ",
     "rarity": 5,
     "reload": [
@@ -13177,6 +13903,7 @@
       ]
     ],
     "id": 1080006,
+    "img": "/img/squareicon/qianlai.png",
     "name": "飞鸟川千濑",
     "rarity": 5,
     "reload": [
@@ -13230,6 +13957,7 @@
       ]
     ],
     "id": 1080007,
+    "img": "/img/squareicon/he.png",
     "name": "貉",
     "rarity": 4,
     "reload": [
@@ -13282,6 +14010,7 @@
       ]
     ],
     "id": 1080008,
+    "img": "/img/squareicon/erdaimu.png",
     "name": "第二代",
     "rarity": 5,
     "reload": [
@@ -13335,6 +14064,7 @@
       ]
     ],
     "id": 1090002,
+    "img": "/img/squareicon/keluodiya.png",
     "name": "科洛蒂娅·巴兰茨",
     "rarity": 5,
     "reload": [
@@ -13394,6 +14124,7 @@
       ]
     ],
     "id": 1090003,
+    "img": "/img/squareicon/patelixia.png",
     "name": "帕特莉夏·阿贝尔海姆",
     "rarity": 5,
     "reload": [
@@ -13451,6 +14182,7 @@
       ]
     ],
     "id": 1090005,
+    "img": "/img/squareicon/saili.png",
     "name": "赛莉·古劳斯",
     "rarity": 4,
     "reload": [
@@ -13508,6 +14240,7 @@
       ]
     ],
     "id": 1100004,
+    "img": "/img/squareicon/xuequan.png",
     "name": "雪泉",
     "rarity": 5,
     "reload": [
@@ -13561,6 +14294,7 @@
       ]
     ],
     "id": 1100005,
+    "img": "/img/squareicon/xuebugui.png",
     "name": "雪不归",
     "rarity": 5,
     "reload": [
@@ -13614,6 +14348,7 @@
       ]
     ],
     "id": 1100006,
+    "img": "/img/squareicon/zi_shanluan.png",
     "name": "紫",
     "rarity": 4,
     "reload": [
@@ -13667,6 +14402,7 @@
       ]
     ],
     "id": 1110004,
+    "img": "/img/squareicon/jinseanying_tolove.png",
     "name": "金色暗影",
     "rarity": 5,
     "reload": [
@@ -13719,6 +14455,7 @@
       ]
     ],
     "id": 1110005,
+    "img": "/img/squareicon/xiliansi_tolove.png",
     "name": "西连寺春菜",
     "rarity": 4,
     "reload": [
@@ -13770,6 +14507,7 @@
       ]
     ],
     "id": 1110006,
+    "img": "/img/squareicon/gushouchuan_tolove.png",
     "name": "古手川唯",
     "rarity": 4,
     "reload": [
@@ -13823,6 +14561,7 @@
       ]
     ],
     "id": 1120001,
+    "img": "/img/squareicon/heiyansheshou.png",
     "name": "BLACK★ROCK SHOOTER",
     "rarity": 5,
     "reload": [
@@ -13874,6 +14613,7 @@
       ]
     ],
     "id": 1120002,
+    "img": "/img/squareicon/siwangzhuzai.png",
     "name": "DEAD MASTER",
     "rarity": 5,
     "reload": [
@@ -13928,6 +14668,7 @@
       ]
     ],
     "id": 1130001,
+    "img": "/img/squareicon/youmiya.png",
     "name": "优米雅·利斯菲尔德",
     "rarity": 5,
     "reload": [
@@ -13987,6 +14728,7 @@
       ]
     ],
     "id": 1130003,
+    "img": "/img/squareicon/nina.png",
     "name": "妮娜·弗里德",
     "rarity": 5,
     "reload": [
@@ -14038,6 +14780,7 @@
       ]
     ],
     "id": 1150002,
+    "img": "/img/squareicon/zhezhi.png",
     "name": "鸢一折纸",
     "rarity": 5,
     "reload": [
@@ -14097,6 +14840,7 @@
       ]
     ],
     "id": 1150003,
+    "img": "/img/squareicon/qinli.png",
     "name": "五河琴里",
     "rarity": 5,
     "reload": [
@@ -14150,6 +14894,7 @@
       ]
     ],
     "id": 1150004,
+    "img": "/img/squareicon/sisinai.png",
     "name": "四糸乃",
     "rarity": 5,
     "reload": [
@@ -14171,6 +14916,60 @@
         "id": 115220,
         "name": "冰壁防御",
         "type": 2
+      }
+    ],
+    "type": 6
+  },
+  "1180001": {
+    "ammo": 0,
+    "camp": 118,
+    "equipCnt": [
+      3,
+      3,
+      1
+    ],
+    "equipSlots": [
+      [
+        7
+      ],
+      [
+        8
+      ],
+      [
+        6
+      ],
+      [
+        10,
+        15
+      ],
+      [
+        10,
+        15
+      ]
+    ],
+    "id": 1180001,
+    "img": "/img/squareicon/1180001.jpg",
+    "name": "莉莉艾露 天使空降队/理理沙",
+    "rarity": 5,
+    "reload": [
+      65,
+      450,
+      0,
+      48,
+      0
+    ],
+    "skills": [
+      {
+        "desc": "战斗开始后每18秒，恢复全体舰队成员1.0%(3.0%)耐久；战斗中，舰队成员获得超出自身耐久上限的治疗时，获得【莉莉艾露守护】：自身受到的伤害降低1.0%(5.0%)(持续至战斗结束)；队友在战斗中受到伤害，导致耐久低于20%时，恢复其5.0%(15.0%)耐久，并使队伍中除自身外所有角色获得【莉莉艾露守护】，之后该技能的治疗效果失效（每场战斗只能触发一次）",
+        "id": 118010,
+        "name": "莉莉艾露治疗",
+        "type": 2
+      },
+      {
+        "desc": "战斗开始时，自身航空属性提升5.0%(10.0%)；战斗开始后5秒，将直接完成1次空中支援加载；自身发动空中支援时，额外发动一轮特殊攻击Lv.1(Lv.10)（弹幕威力依据航空属性及技能等级）",
+        "id": 118020,
+        "name": "莉莉艾露爆破",
+        "type": 1
       }
     ],
     "type": 6

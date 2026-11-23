@@ -440,7 +440,7 @@ class DataHelper(object):
                 "value": 50,
             }
         ]
-        # 保留外部调用所需的图片映射返回值；舰船数据不再使用头像。
+        # 保留外部调用所需的图片映射返回值。
         return result, {}
 
     def load_equip_template(self):
@@ -591,6 +591,10 @@ class DataHelper(object):
         self.datadir.mkdir(exist_ok=True, parents=True)
         # 舰娘数据
         ship_result, image_map = self.load_ship_template()
+        for ship_id, ship in ship_result.items():
+            avatar = prev_data['ships'].get(str(ship_id), {}).get('img')
+            if avatar:
+                ship['img'] = avatar
         log.warning(f'ship_result 已生成, 数量={len(ship_result)}')
         Path(self.datadir, 'ships.json').write_bytes(tojson(ship_result))
         # 装备数据

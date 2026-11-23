@@ -13,6 +13,10 @@
 - 数据在仓库中手动维护。提交数据修改后，构建会将这些文件原样复制到静态站点中。
 - `load_azcd_data.py` 和 `utils/` 是独立的数据准备工具，不参与网页构建或运行。
 
+当前数据以国服 `9.6.657` 为基线，另于 2026-11-24 补入 9 艘舰船和 2 件九期科研装备。舰船装填与 Wiki 满级面板核对，游戏 ID 和槽位编码使用国服客户端配置。两件装备的 `cd` 由 Wiki 的 `+10` 标准射速（23.85 和 12.20 秒/轮）换算。新增技能为图鉴资料，技能对时间轴的影响待建模。[Wiki 舰船装填参数](https://wiki.biligame.com/blhx/MediaWiki:PN.js) · [九期科研专题](https://wiki.biligame.com/blhx/碧蓝海事局科研九期活动专题) · [国服客户端配置](https://github.com/AzurLaneTools/AzurLaneLuaScripts/tree/main/CN)
+
+舰船头像随站点静态发布，资源位于 `vue/public/img/squareicon/`。这次补齐的头像来自碧蓝航线 Wiki。
+
 ## 本地开发与构建
 
 使用 Node.js 24；`vue/.nvmrc` 记录了与 CI 一致的版本。以下命令通过 npx 使用固定的 Yarn 1.22.22，无需预先全局安装 Yarn。

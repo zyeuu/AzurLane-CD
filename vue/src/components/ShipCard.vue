@@ -1,5 +1,6 @@
 <script lang="ts" setup>
 import { computed } from 'vue'
+import ShipAvatar from './ShipAvatar.vue'
 import store from '../utils/store';
 
 const props = defineProps<{
@@ -20,6 +21,7 @@ const dispName = computed(() => {
 
 <template>
     <div class="ship-card">
+        <ship-avatar :src="templ?.img" :size="48" />
         <span class="ship-card-name">{{ dispName }}</span>
         <span v-if="template > 0" class="ship-card-id">ID {{ template }}</span>
     </div>

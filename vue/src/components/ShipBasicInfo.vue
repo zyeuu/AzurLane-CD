@@ -1,5 +1,6 @@
 <template>
     <n-space>
+        <ship-avatar :src="template?.img" :size="72" />
         <n-space>
             <n-form-item label="ID" :show-feedback="false" label-placement="left">
                 {{ shipRef.templateId }}
@@ -61,10 +62,12 @@
 </template>
 
 <script setup lang="ts">
-import { watch, ref } from "vue";
+import { computed, watch, ref } from "vue";
 import { NFormItem, NInput, NSpace, NInputNumber, NSlider, NRadioButton, NRadioGroup } from 'naive-ui'
+import ShipAvatar from './ShipAvatar.vue';
 import { Ship } from "../utils/types";
 import { getRawReload } from "../utils/formulas";
+import store from "../utils/store";
 
 const props = defineProps<{
     ship: Ship,
@@ -75,6 +78,7 @@ const emit = defineEmits<{
 }>();
 
 const shipRef = ref(props.ship);
+const template = computed(() => store.state.shipTemplates[shipRef.value.templateId]);
 
 watch([shipRef.value], () => {
     if (shipRef.value.mode === 'auto') {

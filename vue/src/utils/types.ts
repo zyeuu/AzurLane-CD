@@ -105,6 +105,7 @@ interface ShipTemplate {
     camp: number,
     type: ShipType,
     name: string,
+    img?: string,
     reload: number[],
     equipSlots: EquipType[][],
     equipCnt: number[],
